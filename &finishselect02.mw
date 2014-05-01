@@ -1,0 +1,25 @@
+<poem>
+///================================================================================
+
+//TEXT
+<jaT0001>Hmm. Shall I return to the secondary control room? This means I've done what I need to do, and I'll stop roaming around the Aries, but...
+<enT0001>lolo Hmm. Shall I return to the secondary control room? This means I've done what I need to do, and I'll stop roaming around the Aries, but...
+
+//TEXT
+<jaT0002>Now then, let's choose a different place to go next.
+<enT0002>Now then, let's choose a different place to go next.
+
+///================================================================================
+
+//OTHER
+<jaZ0001>&FinishSelect02.bss
+<enZ0001>&FinishSelect02.bss
+
+//OTHER
+<jaZ0002>Perfect. Let's go back to the control room.
+<enZ0002>Perfect. Let's go back to the control room.
+
+//OTHER
+<jaZ0003>I'm mistaken. Let's not go to the control room.
+<enZ0003>I'm mistaken. Let's not go to the control room.
+</poem>

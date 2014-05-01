@@ -1,0 +1,375 @@
+<poem>
+&mapselect02
+
+//NAME
+<jaN0001>Shuhei
+<enN0001>Шухей
+
+///================================================================================
+
+//TEXT гЂђShuheiг】
+<jaT0001>"......"
+<enT0001>"......"
+
+//TEXT
+<jaT0002>Hmm, when I look at the map like this, I really can't decide where to go.
+<enT0002>Хмм, когда я так смотрю на карту, не могу определиться, куда идти.
+
+//TEXT
+<jaT0003>Effective methods against Jararacas... It'd be easy if there was an armory somewhere on the Sheratan, but something that dangerous would never be on a station that wasn't run by the government.
+<enT0003>Эффективные методы против Джараракаса... Это было бы легко, если бы была оружейная где-нибудь в Шератане, но ничего столь опасного никогда не оказалось бы на станции, которая не  под управлением правительства.
+
+//TEXT
+<jaT0004>This means we need a way to prevent them from invading. Well, no use worrying about it. Let's go somewhere else for now.
+<enT0004>Это значит, что мы должны найти способ помешать им вторгнуться. Ладно, нет смысла об этом переживать.. Давай сейчас сходим куда-нибудь ещё .
+
+//TEXT гЂђShuheiгЂ‘
+<jaT0005>"......"
+<enT0005>"......"
+
+//TEXT
+<jaT0006>It's been quite some time since I started roaming the Aries, and yet I still don't have any ideas...
+<enT0006>Уже прошло довольно много времени с тех пор, как я начал бродить по Овну, но у меня до сих пор нет никаких идей...
+
+//TEXT
+<jaT0007>Well, there's still time, so let's not worry about it too much and keep moving. It's possible something will spring to mind.
+<enT0007>Ну, еще есть время, так что давай не будем беспокоиться об этом слишком сильно и продолжим двигаться дальше. Возможно, что-то и придёт на ум
+
+//TEXT
+<jaT0008>I need to report in. Jararacas will begin their full-fledged attack soon. I should head back to the secondary control room soon, whether I have a good idea or not.
+<enT0008>Мне нужно доложить об этом. Джаракас скоро начнёт полноценную атаку. Есть ли у меня хорошая идея или нет, мне нужно вернуться во вторую диспетчерскую.
+
+//TEXT
+<jaT0009>Well, I guess it's no use wandering around here. I have to put an end to this, after all.
+<enT0009>Ну, я думаю, что нет смысла бродить здесь. В конце концов, я должен положить конец всему этому.
+
+//TEXT
+<jaT0010>Essentially, after moving five more times, I'll automatically return to the secondary control room. Of course, if I'm confident in my idea before then, there's no problem with returning early.
+<enT0010>По сути, после того, как я перемещусь еще пять раз, я автоматически вернусь ко второй диспетчерской. Конечно, если  до того времени я буду уверен в своей догадке, нет особых проблем с тем, чтобы вернуться раньше.
+
+//TEXT
+<jaT0011>We're running out of time, so let's act accordingly.
+<enT0011>У нас мало времени, так что давай действовать соответственно.
+
+//TEXT гЂђShuheiгЂ‘
+<jaT0012>"Three left, huh..."
+<enT0012>"Осталось 3, хмм..."
+
+//TEXT
+<jaT0013>Time is crucial. I need to carefully consider where to go next.
+<enT0013>Время на исходе. Я должен тщательно продумать, куда двигаться дальше.
+
+//TEXT гЂђShuheiгЂ‘
+<jaT0014>"Two left, huh..."
+<enT0014>"Осталось 2, хмм..."
+
+//TEXT
+<jaT0015>It's about time I lit fire up my ass.
+<enT0015>Самое время пошевелить задницей.
+
+//TEXT
+<jaT0016>It's coming down to my last action. I have to think and act carefully.
+<enT0016>Всё идет к моему последнему действию. Я должен думать и действовать осторожно.
+
+//TEXT
+<jaT0017>Of course, if I'm confident in the idea I have now, I can head to the secondary control room.
+<enT0017>Конечно, если я уверен в своей идее, я могу отправиться во вторую диспетчерскую.
+
+///================================================================================
+
+//OTHER
+<jaZ0001>&MapSelect02.bss
+<enZ0001>&MapSelect02.bss
+
+//OTHER
+<jaZ0002>BGM13
+<enZ0002>BGM13
+
+//OTHER
+<jaZ0003>&FlagStart02
+<enZ0003>&FlagStart02
+
+//OTHER
+<jaZ0004>MS_Number01
+<enZ0004>MS_Number01
+
+//OTHER
+<jaZ0005>MS_Number02
+<enZ0005>MS_Number02
+
+//OTHER
+<jaZ0006>MS_Number03
+<enZ0006>MS_Number03
+
+//OTHER
+<jaZ0007>MS_Number04
+<enZ0007>MS_Number04
+
+//OTHER
+<jaZ0008>MS_Number05
+<enZ0008>MS_Number05
+
+//OTHER
+<jaZ0009>MS_Number06
+<enZ0009>MS_Number06
+
+//OTHER
+<jaZ0010>MS_Number07
+<enZ0010>MS_Number07
+
+//OTHER
+<jaZ0011>MS_Number08
+<enZ0011>MS_Number08
+
+//OTHER
+<jaZ0012>MS_Number09
+<enZ0012>MS_Number09
+
+//OTHER
+<jaZ0013>MS_Number10
+<enZ0013>MS_Number10
+
+//OTHER
+<jaZ0014>MS_Number11
+<enZ0014>MS_Number11
+
+//OTHER
+<jaZ0015>MS_Number12
+<enZ0015>MS_Number12
+
+//OTHER
+<jaZ0016>MS_Number13
+<enZ0016>MS_Number13
+
+//OTHER
+<jaZ0017>MS_Number14
+<enZ0017>MS_Number14
+
+//OTHER
+<jaZ0018>MS_Number15
+<enZ0018>MS_Number15
+
+//OTHER
+<jaZ0019>MS_Number16
+<enZ0019>MS_Number16
+
+//OTHER
+<jaZ0020>MS_Number17
+<enZ0020>MS_Number17
+
+//OTHER
+<jaZ0021>MS_Number18
+<enZ0021>MS_Number18
+
+//OTHER
+<jaZ0022>MS_Number19
+<enZ0022>MS_Number19
+
+//OTHER
+<jaZ0023>MS_Number20
+<enZ0023>MS_Number20
+
+//OTHER
+<jaZ0024>MS_bt_Area00
+<enZ0024>MS_bt_Area00
+
+//OTHER
+<jaZ0025>MS_Banner00
+<enZ0025>MS_Banner00
+
+//OTHER
+<jaZ0026>Laboratory
+<enZ0026>Лаборатория
+
+//OTHER
+<jaZ0027>MS_bt_Area01
+<enZ0027>MS_bt_Area01
+
+//OTHER
+<jaZ0028>MS_Banner01
+<enZ0028>MS_Banner01
+
+//OTHER
+<jaZ0029>Passage with a Window
+<enZ0029>Коридор с окном
+
+//OTHER
+<jaZ0030>MS_bt_Area02
+<enZ0030>MS_bt_Area02
+
+//OTHER
+<jaZ0031>MS_Banner02
+<enZ0031>MS_Banner02
+
+//OTHER
+<jaZ0032>Work Machine Hangar
+<enZ0032>Ангар с Рабочей Машиной
+
+//OTHER
+<jaZ0033>MS_bt_Area03
+<enZ0033>MS_bt_Area03
+
+//OTHER
+<jaZ0034>MS_Banner03
+<enZ0034>MS_Banner03
+
+//OTHER
+<jaZ0035>First-Aid Station
+<enZ0035>Станция первой помощи
+
+//OTHER
+<jaZ0036>MS_bt_Area04
+<enZ0036>MS_bt_Area04
+
+//OTHER
+<jaZ0037>MS_Banner04
+<enZ0037>MS_Banner04
+
+//OTHER
+<jaZ0038>Guest Room
+<enZ0038>Комната для гостей
+
+//OTHER
+<jaZ0039>MS_bt_Area05
+<enZ0039>MS_bt_Area05
+
+//OTHER
+<jaZ0040>MS_Banner05
+<enZ0040>MS_Banner05
+
+//OTHER
+<jaZ0041>Lounge
+<enZ0041>Комната отдыха
+
+//OTHER
+<jaZ0042>MS_bt_Area06
+<enZ0042>MS_bt_Area06
+
+//OTHER
+<jaZ0043>MS_Banner06
+<enZ0043>MS_Banner06
+
+//OTHER
+<jaZ0044>In front of the Shutter
+<enZ0044>Перед шлюзом
+
+//OTHER
+<jaZ0045>MS_bt_Area07
+<enZ0045>MS_bt_Area07
+
+//OTHER
+<jaZ0046>MS_Banner07
+<enZ0046>MS_Banner07
+
+//OTHER
+<jaZ0047>Secondary Control Room
+<enZ0047>Вторая диспетчерская
+
+//OTHER
+<jaZ0048>MS_bt_Area08
+<enZ0048>MS_bt_Area08
+
+//OTHER
+<jaZ0049>MS_Banner08
+<enZ0049>MS_Banner08
+
+//OTHER
+<jaZ0050>Another Place
+<enZ0050>Другое Место
+
+//OTHER
+<jaZ0051>bt_SandL
+<enZ0051>bt_SandL
+
+//OTHER
+<jaZ0052>Save & Load
+<enZ0052>Сохранить / Загрузить
+
+//OTHER
+<jaZ0053>noBanner00
+<enZ0053>noBanner00
+
+//OTHER
+<jaZ0054>noBanner01
+<enZ0054>noBanner01
+
+//OTHER
+<jaZ0055>noBanner02
+<enZ0055>noBanner02
+
+//OTHER
+<jaZ0056>noBanner03
+<enZ0056>noBanner03
+
+//OTHER
+<jaZ0057>noBanner04
+<enZ0057>noBanner04
+
+//OTHER
+<jaZ0058>noBanner05
+<enZ0058>noBanner05
+
+//OTHER
+<jaZ0059>noBanner06
+<enZ0059>noBanner06
+
+//OTHER
+<jaZ0060>noBanner07
+<enZ0060>noBanner07
+
+//OTHER
+<jaZ0061>noBanner08
+<enZ0061>noBanner08
+
+//OTHER
+<jaZ0062>MS_BG
+<enZ0062>MS_BG
+
+//OTHER
+<jaZ0063>mask21
+<enZ0063>mask21
+
+//OTHER
+<jaZ0064>MS_Area
+<enZ0064>MS_Area
+
+//OTHER
+<jaZ0065>Game_B008A_main
+<enZ0065>Game_B008A_main
+
+//OTHER
+<jaZ0066>&FlagReset02
+<enZ0066>&FlagReset02
+
+//OTHER
+<jaZ0067>&ReturnText02
+<enZ0067>&ReturnText02
+
+//OTHER
+<jaZ0068>Game_B008B_main
+<enZ0068>Game_B008B_main
+
+//OTHER
+<jaZ0069>Game_B008C_main
+<enZ0069>Game_B008C_main
+
+//OTHER
+<jaZ0070>Game_B008D_main
+<enZ0070>Game_B008D_main
+
+//OTHER
+<jaZ0071>Game_B008E_main
+<enZ0071>Game_B008E_main
+
+//OTHER
+<jaZ0072>Game_B008F_main
+<enZ0072>Game_B008F_main
+
+//OTHER
+<jaZ0073>Game_B008G_main
+<enZ0073>Game_B008G_main
+
+//OTHER
+<jaZ0074>&FinishSelect02
+<enZ0074>&FinishSelect02
+</poem>

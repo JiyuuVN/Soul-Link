@@ -1,0 +1,18 @@
+<poem>
+///================================================================================
+
+//TEXT
+<jaT0001>...Hey, hey. I just went there.
+<enT0001>...Hey, hey. I just went there.
+
+//TEXT
+<jaT0002>Well, it's my fault for including it in the options. Alright, I won't include it this time, so don't worry. Now, let's choose a different path this time.
+<enT0002>Well, it's my fault for including it in the options. Alright, I won't include it this time, so don't worry. Now, let's choose a different path this time.
+
+///================================================================================
+
+//OTHER
+<jaZ0001>&ReturnText02.bss
+<enZ0001>&ReturnText02.bss
+
+</poem>
