@@ -1,0 +1,306 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+//NAME
+<jaN0002>Aki
+<enN0002>Aki
+
+///================================================================================
+
+//TEXT 【Shuhei】
+<jaT0001>"Hey hey. Forget that. What are you going to do now, Aki? I'm heading to the primary control room."
+<enT0001>"Hey hey. Forget that. What are you going to do now, Aki? I'm heading to the primary control room."
+
+//TEXT 【Aki】
+<jaT0002>"I think I'll head to my class. I'm already running late so I can't stay and talk anymore."
+<enT0002>"I think I'll head to my class. I'm already running late so I can't stay and talk anymore."
+
+//TEXT 【Shuhei】
+<jaT0003>"Well, you do that then."
+<enT0003>"Well, you do that then."
+
+//TEXT 【Aki】
+<jaT0004>"Okay. If we get a chance, let's meet up again."
+<enT0004>"Okay. If we get a chance, let's meet up again."
+
+//TEXT
+<jaT0005>After a little bow, Aki started to walk off.
+<enT0005>After a little bow, Aki started to walk off.
+
+//TEXT 【Shuhei】
+<jaT0006>"Oh, Aki, wait a second."
+<enT0006>"Oh, Aki, wait a second."
+
+//TEXT 【Aki】
+<jaT0007>"Yes?"
+<enT0007>"Yes?"
+
+//TEXT 【Shuhei】
+<jaT0008>"Here, take a present as thanks for guiding me."
+<enT0008>"Here, take a present as thanks for guiding me."
+
+//TEXT
+<jaT0009>As he spoke, he held out a paper box of Genkotsu Okoshi to Aki.
+<enT0009>As he spoke, he held out a paper box of Genkotsu Okoshi to Aki.
+
+//TEXT 【Aki】
+<jaT0010>"Huh?"
+<enT0010>"Huh?"
+
+//TEXT 【Shuhei】
+<jaT0011>"What's with that clearly disappointed face? Are you gonna say 'It'll just be luggage, so I don't need it'?"
+<enT0011>"What's with that clearly disappointed face? Are you gonna say 'It'll just be luggage, so I don't need it'?"
+
+//TEXT 【Aki】
+<jaT0012>"(Nod)"
+<enT0012>"(Nod)"
+
+//TEXT 【Shuhei】
+<jaT0013>"Hey, don't just nod in silence!"
+<enT0013>"Hey, don't just nod in silence!"
+
+//TEXT 【Aki】
+<jaT0014>"But if I open my mouth I might say something worse."
+<enT0014>"But if I open my mouth I might say something worse."
+
+//TEXT
+<jaT0015>She said, pursing her lips shut tight.
+<enT0015>She said, pursing her lips shut tight.
+
+//TEXT 【Shuhei】
+<jaT0016>"If you're going to nod like you did just now, there's no reason to seal your lips."
+<enT0016>"If you're going to nod like you did just now, there's no reason to seal your lips."
+
+//TEXT 【Shuhei】
+<jaT0017>"Besides, you're misunderstanding, Aki. These Genkotsu Okoshi aren't just some candy you can find anywhere and everywhere."
+<enT0017>"Besides, you're misunderstanding, Aki. These Genkotsu Okoshi aren't just some candy you can find anywhere and everywhere."
+
+//TEXT 【Aki】
+<jaT0018>"Hmm, really?"
+<enT0018>"Hmm, really?"
+
+//TEXT 【Shuhei】
+<jaT0019>"Of course. It's a special candy found only at a certain shrine in the Kantou region. It takes a whole month to make one box."
+<enT0019>"Of course. It's a special candy found only at a certain shrine in the Kantou region. It takes a whole month to make one box."
+
+//TEXT 【Aki】
+<jaT0020>"(Stare)"
+<enT0020>"(Stare)"
+
+//TEXT
+<jaT0021>Aki looked at the contents of the paper bag showing some interest.
+<enT0021>Aki looked at the contents of the paper bag showing some interest.
+
+//TEXT 【Shuhei】
+<jaT0022>"Take whichever one you want."
+<enT0022>"Take whichever one you want."
+
+//TEXT 【Aki】
+<jaT0023>"Then I'll take up your offer."
+<enT0023>"Then I'll take up your offer."
+
+//TEXT
+<jaT0024>After she rummaged around inspecting them, Aki pulled out the smallest one and shoved it in her pack.
+<enT0024>After she rummaged around inspecting them, Aki pulled out the smallest one and shoved it in her pack.
+
+//TEXT 【Shuhei】
+<jaT0025>"What an admirable attitude, choosing the smallest one."
+<enT0025>"What an admirable attitude, choosing the smallest one."
+
+//TEXT 【Aki】
+<jaT0026>"Of course."
+<enT0026>"Of course."
+
+//TEXT 【Shuhei】
+<jaT0027>"But, you didn't pick the one you stepped on."
+<enT0027>"But, you didn't pick the one you stepped on."
+
+//TEXT 【Aki】
+<jaT0028>"Obviously. That's the one you're going to eat, Sempai."
+<enT0028>"Obviously. That's the one you're going to eat, Sempai."
+
+//TEXT 【Shuhei】
+<jaT0029>"Yea, thanks for your kind consideration."
+<enT0029>"Yea, thanks for your kind consideration."
+
+//TEXT 【Aki】
+<jaT0030>"Hehe. Well, thanks a lot, Sempai."
+<enT0030>"Hehe. Well, thanks a lot, Sempai."
+
+//TEXT
+<jaT0031>Then with a quick bow, Aki finally left.
+<enT0031>Then with a quick bow, Aki finally left.
+
+//TEXT 【Shuhei】
+<jaT0032>"Now then, I shouldn't be standing around here either."
+<enT0032>"Now then, I shouldn't be standing around here either."
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_09.bss
+<enZ0001>Game_A002_09.bss
+
+//OTHER
+<jaZ0002>SG-A10AA
+<enZ0002>SG-A10AA
+
+//OTHER
+<jaZ0003>SYU_0073
+<enZ0003>SYU_0073
+
+//OTHER
+<jaZ0004>SC-A01AA
+<enZ0004>SC-A01AA
+
+//OTHER
+<jaZ0005>AKI_0058
+<enZ0005>AKI_0058
+
+//OTHER
+<jaZ0006>SG-A01AA
+<enZ0006>SG-A01AA
+
+//OTHER
+<jaZ0007>SYU_0074
+<enZ0007>SYU_0074
+
+//OTHER
+<jaZ0008>SC-B02AA
+<enZ0008>SC-B02AA
+
+//OTHER
+<jaZ0009>AKI_0059
+<enZ0009>AKI_0059
+
+//OTHER
+<jaZ0010>SYU_0075
+<enZ0010>SYU_0075
+
+//OTHER
+<jaZ0011>SC-A08AA
+<enZ0011>SC-A08AA
+
+//OTHER
+<jaZ0012>BGM12
+<enZ0012>BGM12
+
+//OTHER
+<jaZ0013>AKI_0060
+<enZ0013>AKI_0060
+
+//OTHER
+<jaZ0014>SYU_0076
+<enZ0014>SYU_0076
+
+//OTHER
+<jaZ0015>SC-B09AA
+<enZ0015>SC-B09AA
+
+//OTHER
+<jaZ0016>AKI_0061
+<enZ0016>AKI_0061
+
+//OTHER
+<jaZ0017>SG-A07AA
+<enZ0017>SG-A07AA
+
+//OTHER
+<jaZ0018>SYU_0077
+<enZ0018>SYU_0077
+
+//OTHER
+<jaZ0019>SC-B06AA
+<enZ0019>SC-B06AA
+
+//OTHER
+<jaZ0020>AKI_0062
+<enZ0020>AKI_0062
+
+//OTHER
+<jaZ0021>SYU_0078
+<enZ0021>SYU_0078
+
+//OTHER
+<jaZ0022>SC-A03AA
+<enZ0022>SC-A03AA
+
+//OTHER
+<jaZ0023>AKI_0063
+<enZ0023>AKI_0063
+
+//OTHER
+<jaZ0024>SYU_0079
+<enZ0024>SYU_0079
+
+//OTHER
+<jaZ0025>SG-A05AA
+<enZ0025>SG-A05AA
+
+//OTHER
+<jaZ0026>SYU_0080
+<enZ0026>SYU_0080
+
+//OTHER
+<jaZ0027>AKI_0064
+<enZ0027>AKI_0064
+
+//OTHER
+<jaZ0028>SYU_0081
+<enZ0028>SYU_0081
+
+//OTHER
+<jaZ0029>SC-A04AA
+<enZ0029>SC-A04AA
+
+//OTHER
+<jaZ0030>AKI_0065
+<enZ0030>AKI_0065
+
+//OTHER
+<jaZ0031>SG-A02AA
+<enZ0031>SG-A02AA
+
+//OTHER
+<jaZ0032>SYU_0082
+<enZ0032>SYU_0082
+
+//OTHER
+<jaZ0033>AKI_0066
+<enZ0033>AKI_0066
+
+//OTHER
+<jaZ0034>SYU_0083
+<enZ0034>SYU_0083
+
+//OTHER
+<jaZ0035>AKI_0067
+<enZ0035>AKI_0067
+
+//OTHER
+<jaZ0036>SYU_0084
+<enZ0036>SYU_0084
+
+//OTHER
+<jaZ0037>SC-B01AA
+<enZ0037>SC-B01AA
+
+//OTHER
+<jaZ0038>AKI_0068
+<enZ0038>AKI_0068
+
+//OTHER
+<jaZ0039>SYU_0085
+<enZ0039>SYU_0085
+
+//OTHER
+<jaZ0040>AKI_0069
+<enZ0040>AKI_0069
+
+//OTHER
+<jaZ0041>SYU_0086
+<enZ0041>SYU_0086
+
+</poem>

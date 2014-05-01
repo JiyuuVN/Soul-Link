@@ -1,0 +1,98 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT
+<jaT0001>If she comes in now, I'll be able to surprise her. I began preparing my attack and set up for the perfect ambush.
+<enT0001>If she comes in now, I'll be able to surprise her. I began preparing my attack and set up for the perfect ambush.
+
+//TEXT
+<jaT0002>Then the silence of the laboratory was shattered by piercing noise.
+<enT0002>Then the silence of the laboratory was shattered by piercing noise.
+
+//TEXT 【Shuhei】
+<jaT0003>"Wha..."
+<enT0003>"Wha..."
+
+//TEXT
+<jaT0004>Surprised, I searched for the sound. It was coming from the transceiver I used before. Someone was trying to contact me.
+<enT0004>Surprised, I searched for the sound. It was coming from the transceiver I used before. Someone was trying to contact me.
+
+//TEXT 【Shuhei】
+<jaT0005>"(Shit! I left it on the last time I used it...)"
+<enT0005>"(Shit! I left it on the last time I used it...)"
+
+//TEXT
+<jaT0006>I could sense the blood drain from my cheeks. I couldn't possibly surprise her with this damn thing.
+<enT0006>I could sense the blood drain from my cheeks. I couldn't possibly surprise her with this damn thing.
+
+//TEXT
+<jaT0007>I quickly drew my gun and tried to get away from the door, but I was already too late.
+<enT0007>I quickly drew my gun and tried to get away from the door, but I was already too late.
+
+//TEXT
+<jaT0008>The automatic door opened, and Yu came in. With no mercy, she fired a barrage straight at me.
+<enT0008>The automatic door opened, and Yu came in. With no mercy, she fired a barrage straight at me.
+
+//TEXT
+<jaT0009>Helpless against the countless bullets, my body sprung back like a toy with a coiled spring.
+<enT0009>Helpless against the countless bullets, my body sprung back like a toy with a coiled spring.
+
+//TEXT
+<jaT0010>......
+<enT0010>......
+
+//TEXT
+<jaT0011>...
+<enT0011>...
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend16.bss
+<enZ0001>Game__Bend16.bss
+
+//OTHER
+<jaZ0002>BGM18
+<enZ0002>BGM18
+
+//OTHER
+<jaZ0003>BG12AB
+<enZ0003>BG12AB
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>SE_004
+<enZ0005>SE_004
+
+//OTHER
+<jaZ0006>BGM04
+<enZ0006>BGM04
+
+//OTHER
+<jaZ0007>ev027b
+<enZ0007>ev027b
+
+//OTHER
+<jaZ0008>SE_034
+<enZ0008>SE_034
+
+//OTHER
+<jaZ0009>black
+<enZ0009>black
+
+//OTHER
+<jaZ0010>WP05A
+<enZ0010>WP05A
+
+//OTHER
+<jaZ0011>_TextBadEnd
+<enZ0011>_TextBadEnd
+
+</poem>

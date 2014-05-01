@@ -1,0 +1,154 @@
+<poem>
+//NAME
+<jaN0001>Cellaria
+<enN0001>Cellaria
+
+//NAME
+<jaN0002>Shuhei
+<enN0002>Shuhei
+
+///================================================================================
+
+//TEXT 【Cellaria】
+<jaT0001>"Oh right, Shuhei-san, before you return to your room, there is one thing I would like to ask you?"
+<enT0001>"Oh right, Shuhei-san, before you return to your room, there is one thing I would like to ask you?"
+
+//TEXT 【Shuhei】
+<jaT0002>"What's that?"
+<enT0002>"What's that?"
+
+//TEXT 【Cellaria】
+<jaT0003>"I heard that you were presented with three choices, including the Aries, for your new post. Of those three, why did you choose 'space', the post farthest away?"
+<enT0003>"I heard that you were presented with three choices, including the Aries, for your new post. Of those three, why did you choose 'space', the post farthest away?"
+
+//TEXT
+<jaT0004>Shuhei looked perplexed at Cellaria's question. However, he quickly returned to normal and gave a casual answer.
+<enT0004>Shuhei looked perplexed at Cellaria's question. However, he quickly returned to normal and gave a casual answer.
+
+//TEXT 【Shuhei】
+<jaT0005>"Hahaha. No, there's no deep meaning. I just liked space more."
+<enT0005>"Hahaha. No, there's no deep meaning. I just liked space more."
+
+//TEXT 【Cellaria】
+<jaT0006>"Even though you're from the Army?"
+<enT0006>"Even though you're from the Army?"
+
+//TEXT 【Shuhei】
+<jaT0007>"Hm? Uh, no, I'm just eccentric. Ahaha..."
+<enT0007>"Hm? Uh, no, I'm just eccentric. Ahaha..."
+
+//TEXT 【Cellaria】
+<jaT0008>"Hehe."
+<enT0008>"Hehe."
+
+//TEXT
+<jaT0009>When she saw Shuhei lose his composer once again, she couldn't help but laugh.
+<enT0009>When she saw Shuhei lose his composer once again, she couldn't help but laugh.
+
+//TEXT 【Cellaria】
+<jaT0010>"Understood. To be honest, I suspected as much."
+<enT0010>"Understood. To be honest, I suspected as much."
+
+//TEXT 【Cellaria】
+<jaT0011>"I wasn't trying to cause a fuss. If you're going to see your brother, please do so off duty."
+<enT0011>"I wasn't trying to cause a fuss. If you're going to see your brother, please do so off duty."
+
+//TEXT 【Shuhei】
+<jaT0012>"...Yes ma'am. Well then, I'll be on my way."
+<enT0012>"...Yes ma'am. Well then, I'll be on my way."
+
+//TEXT
+<jaT0013>Shuhei nodded with an odd expression of both embarrassment and relief.
+<enT0013>Shuhei nodded with an odd expression of both embarrassment and relief.
+
+//TEXT
+<jaT0014>Then he jogged after Morimoto who was waiting by the entrance.
+<enT0014>Then he jogged after Morimoto who was waiting by the entrance.
+
+//TEXT 【Cellaria】
+<jaT0015>"Hehe. He truly is an interesting person."
+<enT0015>"Hehe. He truly is an interesting person."
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_12.bss
+<enZ0001>Game_A002_12.bss
+
+//OTHER
+<jaZ0002>SER_0021
+<enZ0002>SER_0021
+
+//OTHER
+<jaZ0003>SG_A10AA
+<enZ0003>SG_A10AA
+
+//OTHER
+<jaZ0004>SYU_0115
+<enZ0004>SYU_0115
+
+//OTHER
+<jaZ0005>SE_A06AA
+<enZ0005>SE_A06AA
+
+//OTHER
+<jaZ0006>BGM23
+<enZ0006>BGM23
+
+//OTHER
+<jaZ0007>SER_0022
+<enZ0007>SER_0022
+
+//OTHER
+<jaZ0008>SG_A08AA
+<enZ0008>SG_A08AA
+
+//OTHER
+<jaZ0009>SG_A02AA
+<enZ0009>SG_A02AA
+
+//OTHER
+<jaZ0010>SYU_0116
+<enZ0010>SYU_0116
+
+//OTHER
+<jaZ0011>SE_A07AA
+<enZ0011>SE_A07AA
+
+//OTHER
+<jaZ0012>SER_0023
+<enZ0012>SER_0023
+
+//OTHER
+<jaZ0013>SYU_0117
+<enZ0013>SYU_0117
+
+//OTHER
+<jaZ0014>SE_A03AA
+<enZ0014>SE_A03AA
+
+//OTHER
+<jaZ0015>SER_0024
+<enZ0015>SER_0024
+
+//OTHER
+<jaZ0016>SER_0025
+<enZ0016>SER_0025
+
+//OTHER
+<jaZ0017>SER_0026
+<enZ0017>SER_0026
+
+//OTHER
+<jaZ0018>SG_A06AA
+<enZ0018>SG_A06AA
+
+//OTHER
+<jaZ0019>SYU_0118
+<enZ0019>SYU_0118
+
+//OTHER
+<jaZ0020>SER_0027
+<enZ0020>SER_0027
+
+</poem>

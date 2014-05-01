@@ -1,0 +1,98 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT
+<jaT0001>Right, he's bearing a submachine gun and he's got cover from the Hamal. It's too dangerous to act when we don't know what they're planning.
+<enT0001>Right, he's bearing a submachine gun and he's got cover from the Hamal. It's too dangerous to act when we don't know what they're planning.
+
+//TEXT
+<jaT0002>I signaled to the two behind me to close the fire door.
+<enT0002>I signaled to the two behind me to close the fire door.
+
+//TEXT
+<jaT0003>The buzzer rang to announce its closing, and soon it began to slowly close. Then I got a bad feeling.
+<enT0003>The buzzer rang to announce its closing, and soon it began to slowly close. Then I got a bad feeling.
+
+//TEXT 【Shuhei】
+<jaT0004>"(Why did that shield guy stop there?)"
+<enT0004>"(Why did that shield guy stop there?)"
+
+//TEXT
+<jaT0005>The man put his hand to his chest and stared straight at us. He was holding something.
+<enT0005>The man put his hand to his chest and stared straight at us. He was holding something.
+
+//TEXT 【Shuhei】
+<jaT0006>"Wait! Stop the fire door!"
+<enT0006>"Wait! Stop the fire door!"
+
+//TEXT
+<jaT0007>It was already too late when I screamed. The fire door continued to close without delay, and just before it finished, the man threw a black sphere with lighting speed. I watched it all with a calm state of mind.
+<enT0007>It was already too late when I screamed. The fire door continued to close without delay, and just before it finished, the man threw a black sphere with lighting speed. I watched it all with a calm state of mind.
+
+//TEXT 【Shuhei】
+<jaT0008>"(So that's what it was. After the fire door shuts, we'll be the only ones damaged.)"
+<enT0008>"(So that's what it was. After the fire door shuts, we'll be the only ones damaged.)"
+
+//TEXT
+<jaT0009>To put up at least some resistance, I desperately tried to cover that black object. However...
+<enT0009>To put up at least some resistance, I desperately tried to cover that black object. However...
+
+//TEXT
+<jaT0010>The next instant, my entire body was blown apart in a tremendous blast.
+<enT0010>The next instant, my entire body was blown apart in a tremendous blast.
+
+//TEXT
+<jaT0011>......
+<enT0011>......
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend06.bss
+<enZ0001>Game__Bend06.bss
+
+//OTHER
+<jaZ0002>BGM15
+<enZ0002>BGM15
+
+//OTHER
+<jaZ0003>BG20CA
+<enZ0003>BG20CA
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>SE_012
+<enZ0005>SE_012
+
+//OTHER
+<jaZ0006>loop_SE_084
+<enZ0006>loop_SE_084
+
+//OTHER
+<jaZ0007>SE_041
+<enZ0007>SE_041
+
+//OTHER
+<jaZ0008>SE_039
+<enZ0008>SE_039
+
+//OTHER
+<jaZ0009>white
+<enZ0009>white
+
+//OTHER
+<jaZ0010>black
+<enZ0010>black
+
+//OTHER
+<jaZ0011>_TextBadEnd
+<enZ0011>_TextBadEnd
+
+</poem>

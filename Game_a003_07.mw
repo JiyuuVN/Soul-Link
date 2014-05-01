@@ -1,0 +1,262 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+//NAME
+<jaN0002>Nao
+<enN0002>Nao
+
+//NAME
+<jaN0003>Cellaria
+<enN0003>Cellaria
+
+///================================================================================
+
+//TEXT
+<jaT0001>......
+<enT0001>......
+
+//TEXT 【Shuhei】
+<jaT0002>"See, isn't it funny? This is the badge I won from him in that match."
+<enT0002>"See, isn't it funny? This is the badge I won from him in that match."
+
+//TEXT 【Nao】
+<jaT0003>"That's not funny. You're not supposed to gamble, you know."
+<enT0003>"That's not funny. You're not supposed to gamble, you know."
+
+//TEXT
+<jaT0004>The lounge was empty now and the two of them were enjoying a carefree conversation.
+<enT0004>The lounge was empty now and the two of them were enjoying a carefree conversation.
+
+//TEXT 【Shuhei】
+<jaT0005>"H-hey come on, it's not that big of a deal. It's not like we were betting money."
+<enT0005>"H-hey come on, it's not that big of a deal. It's not like we were betting money."
+
+//TEXT 【Nao】
+<jaT0006>"That may be true but..."
+<enT0006>"That may be true but..."
+
+//TEXT 【Shuhei】
+<jaT0007>"Right? We weren't betting things, just our pride as men!"
+<enT0007>"Right? We weren't betting things, just our pride as men!"
+
+//TEXT 【Nao】
+<jaT0008>"Haha, Shuhei-kun, you're the same as always."
+<enT0008>"Haha, Shuhei-kun, you're the same as always."
+
+//TEXT 【Shuhei】
+<jaT0009>"R-really?"
+<enT0009>"R-really?"
+
+//TEXT 【Nao】
+<jaT0010>"Yea. I'm relieved the Shuhei-kun I know hasn't changed one bit while you were away."
+<enT0010>"Yea. I'm relieved the Shuhei-kun I know hasn't changed one bit while you were away."
+
+//TEXT
+<jaT0011>He knew many things Nao didn't, he could shrewdly manage the things Nao couldn't, he was a perfect person at first glance, but he was full of childish traits....
+<enT0011>He knew many things Nao didn't, he could shrewdly manage the things Nao couldn't, he was a perfect person at first glance, but he was full of childish traits....
+
+//TEXT
+<jaT0012>After just a short conversation, she knew that the things she didn't want to change most, hadn't changed at all.
+<enT0012>After just a short conversation, she knew that the things she didn't want to change most, hadn't changed at all.
+
+//TEXT
+<jaT0013>The shining curiosity in his eyes towards something new, and his ability to quickly enact new ideas.
+<enT0013>The shining curiosity in his eyes towards something new, and his ability to quickly enact new ideas.
+
+//TEXT 【Nao】
+<jaT0014>"You know, Shuhei-kun, that's what I...."
+<enT0014>"You know, Shuhei-kun, that's what I...."
+
+//TEXT 【Shuhei】
+<jaT0015>"..Hmm?"
+<enT0015>"..Hmm?"
+
+//TEXT
+<jaT0016>As he was tilting his head to hear her better...
+<enT0016>As he was tilting his head to hear her better...
+
+//TEXT 【Nao】
+<jaT0017>"Ah, Cellaria-sensei."
+<enT0017>"Ah, Cellaria-sensei."
+
+//TEXT 【Shuhei】
+<jaT0018>"What?!"
+<enT0018>"What?!"
+
+//TEXT 【Cellaria】
+<jaT0019>"Shuhei-san."
+<enT0019>"Shuhei-san."
+
+//TEXT 【Shuhei】
+<jaT0020>"I'm sorry, I really didn't mean to stay here for so long..."
+<enT0020>"I'm sorry, I really didn't mean to stay here for so long..."
+
+//TEXT 【Cellaria】
+<jaT0021>"Forget about that. Shuhei-san, come with me to the primary control room."
+<enT0021>"Forget about that. Shuhei-san, come with me to the primary control room."
+
+//TEXT 【Shuhei】
+<jaT0022>"What? Did something happen?"
+<enT0022>"What? Did something happen?"
+
+//TEXT 【Cellaria】
+<jaT0023>"We just received communications from HQ. They believe someone has tapped into the Aries' communications."
+<enT0023>"We just received communications from HQ. They believe someone has tapped into the Aries' communications."
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A003_07.bss
+<enZ0001>Game_A003_07.bss
+
+//OTHER
+<jaZ0002>black
+<enZ0002>black
+
+//OTHER
+<jaZ0003>mask00
+<enZ0003>mask00
+
+//OTHER
+<jaZ0004>SG_A01AA
+<enZ0004>SG_A01AA
+
+//OTHER
+<jaZ0005>SA_B05AA
+<enZ0005>SA_B05AA
+
+//OTHER
+<jaZ0006>BG06BA
+<enZ0006>BG06BA
+
+//OTHER
+<jaZ0007>BGM16
+<enZ0007>BGM16
+
+//OTHER
+<jaZ0008>SYU_0179
+<enZ0008>SYU_0179
+
+//OTHER
+<jaZ0009>SA_B04AA
+<enZ0009>SA_B04AA
+
+//OTHER
+<jaZ0010>NAO_0072
+<enZ0010>NAO_0072
+
+//OTHER
+<jaZ0011>SG_A06AA
+<enZ0011>SG_A06AA
+
+//OTHER
+<jaZ0012>SYU_0180
+<enZ0012>SYU_0180
+
+//OTHER
+<jaZ0013>NAO_0073
+<enZ0013>NAO_0073
+
+//OTHER
+<jaZ0014>SG_A03AA
+<enZ0014>SG_A03AA
+
+//OTHER
+<jaZ0015>SYU_0181
+<enZ0015>SYU_0181
+
+//OTHER
+<jaZ0016>SA_A01AA
+<enZ0016>SA_A01AA
+
+//OTHER
+<jaZ0017>NAO_0074
+<enZ0017>NAO_0074
+
+//OTHER
+<jaZ0018>SG_A08AA
+<enZ0018>SG_A08AA
+
+//OTHER
+<jaZ0019>SYU_0182
+<enZ0019>SYU_0182
+
+//OTHER
+<jaZ0020>SA_B02AA
+<enZ0020>SA_B02AA
+
+//OTHER
+<jaZ0021>NAO_0075
+<enZ0021>NAO_0075
+
+//OTHER
+<jaZ0022>NAO_0076
+<enZ0022>NAO_0076
+
+//OTHER
+<jaZ0023>SG_A10AA
+<enZ0023>SG_A10AA
+
+//OTHER
+<jaZ0024>SYU_0183
+<enZ0024>SYU_0183
+
+//OTHER
+<jaZ0025>SE_014
+<enZ0025>SE_014
+
+//OTHER
+<jaZ0026>SA_A08AA
+<enZ0026>SA_A08AA
+
+//OTHER
+<jaZ0027>NAO_0077
+<enZ0027>NAO_0077
+
+//OTHER
+<jaZ0028>SG_A09AA
+<enZ0028>SG_A09AA
+
+//OTHER
+<jaZ0029>SYU_0184
+<enZ0029>SYU_0184
+
+//OTHER
+<jaZ0030>SE_023
+<enZ0030>SE_023
+
+//OTHER
+<jaZ0031>SE_A05AA
+<enZ0031>SE_A05AA
+
+//OTHER
+<jaZ0032>SER_0033
+<enZ0032>SER_0033
+
+//OTHER
+<jaZ0033>SYU_0185
+<enZ0033>SYU_0185
+
+//OTHER
+<jaZ0034>SE_A04AA
+<enZ0034>SE_A04AA
+
+//OTHER
+<jaZ0035>SER_0034
+<enZ0035>SER_0034
+
+//OTHER
+<jaZ0036>SYU_0186
+<enZ0036>SYU_0186
+
+//OTHER
+<jaZ0037>SE_A06AA
+<enZ0037>SE_A06AA
+
+//OTHER
+<jaZ0038>SER_0035
+<enZ0038>SER_0035
+
+</poem>

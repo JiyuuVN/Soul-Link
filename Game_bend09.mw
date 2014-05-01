@@ -1,0 +1,170 @@
+<poem>
+//NAME
+<jaN0001>Sayaka
+<enN0001>Sayaka
+
+///================================================================================
+
+//TEXT
+<jaT0001>She began to reach for another pipe near the one she first tried to destroy. She believed that it didn't matter which one she broke, so she went for the closest one.
+<enT0001>She began to reach for another pipe near the one she first tried to destroy. She believed that it didn't matter which one she broke, so she went for the closest one.
+
+//TEXT 【Sayaka】
+<jaT0002>"Yah! Hmm. This one's tough too."
+<enT0002>"Yah! Hmm. This one's tough too."
+
+//TEXT
+<jaT0003>Giving up, she moved to the next pipe. If it didn't break, she moved the arm to the next pipe, trying one after another.
+<enT0003>Giving up, she moved to the next pipe. If it didn't break, she moved the arm to the next pipe, trying one after another.
+
+//TEXT
+<jaT0004>Giving up, she moved to the next pipe. If it didn't break, she moved to the next one.
+<enT0004>Giving up, she moved to the next pipe. If it didn't break, she moved to the next one.
+
+//TEXT
+<jaT0005>She wasn't consciously looking at pipes, but she was so impatient about the remaining time, she went for the larger parts.
+<enT0005>She wasn't consciously looking at pipes, but she was so impatient about the remaining time, she went for the larger parts.
+
+//TEXT 【Sayaka】
+<jaT0006>"Hmm. This isn't going well. Next... Oh, this one looks thin so it should work."
+<enT0006>"Hmm. This isn't going well. Next... Oh, this one looks thin so it should work."
+
+//TEXT
+<jaT0007>She became bent on breaking a pipe that was about 5cm thinner than the others. First, she tried to crush it... but that didn't work well.
+<enT0007>She became bent on breaking a pipe that was about 5cm thinner than the others. First, she tried to crush it... but that didn't work well.
+
+//TEXT
+<jaT0008>Then Sayaka held it with the left arm and tried to beat on it with the right arm.
+<enT0008>Then Sayaka held it with the left arm and tried to beat on it with the right arm.
+
+//TEXT 【Sayaka】
+<jaT0009>"Argh, you, Ah!"
+<enT0009>"Argh, you, Ah!"
+
+//TEXT
+<jaT0010>Once, twice, three times. She thought the pipe bent a little. Now that Sayaka had a chance, she hit the pipe faster.
+<enT0010>Once, twice, three times. She thought the pipe bent a little. Now that Sayaka had a chance, she hit the pipe faster.
+
+//TEXT 【Sayaka】
+<jaT0011>"A little more... Yah! Yah! Yah!"
+<enT0011>"A little more... Yah! Yah! Yah!"
+
+//TEXT
+<jaT0012>Crunch. That was the sound the pipe would make if there was air, as it suddenly broke before her. At the same time, the sound of an alarm flowed over the speaker.
+<enT0012>Crunch. That was the sound the pipe would make if there was air, as it suddenly broke before her. At the same time, the sound of an alarm flowed over the speaker.
+
+//TEXT 【Sayaka】
+<jaT0013>"I did it! This is the emergency alarm, isn't it..."
+<enT0013>"I did it! This is the emergency alarm, isn't it..."
+
+//TEXT
+<jaT0014>Sayaka sought confirmation from the control room, full of happiness.
+<enT0014>Sayaka sought confirmation from the control room, full of happiness.
+
+//TEXT
+<jaT0015>However, her joy only lasted a few seconds. Her overture of collapse had already begun. She had broken the oxygen pipe.
+<enT0015>However, her joy only lasted a few seconds. Her overture of collapse had already begun. She had broken the oxygen pipe.
+
+//TEXT
+<jaT0016>The oxygen blew out with tremendous force, dispersing through the area. At the same time, a special, combustible gas leaked from the nearby pipe. Unable to see this happening, she was helpless to stop it.
+<enT0016>The oxygen blew out with tremendous force, dispersing through the area. At the same time, a special, combustible gas leaked from the nearby pipe. Unable to see this happening, she was helpless to stop it.
+
+//TEXT
+<jaT0017>Then...
+<enT0017>Then...
+
+//TEXT
+<jaT0018>Merely seconds later, an explosion erupted from the fire of the rocket engine used to start up her propulsion system.
+<enT0018>Merely seconds later, an explosion erupted from the fire of the rocket engine used to start up her propulsion system.
+
+//TEXT
+<jaT0019>The maintenance pod crashed into the Aries with the force of the blast and the shock opened a large tear in the hull, bringing about the worst possible scenario...
+<enT0019>The maintenance pod crashed into the Aries with the force of the blast and the shock opened a large tear in the hull, bringing about the worst possible scenario...
+
+//TEXT
+<jaT0020>......
+<enT0020>......
+
+//TEXT
+<jaT0021>...
+<enT0021>...
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend09.bss
+<enZ0001>Game__Bend09.bss
+
+//OTHER
+<jaZ0002>BGM13
+<enZ0002>BGM13
+
+//OTHER
+<jaZ0003>ev055a
+<enZ0003>ev055a
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>SE_128
+<enZ0005>SE_128
+
+//OTHER
+<jaZ0006>ev055e
+<enZ0006>ev055e
+
+//OTHER
+<jaZ0007>SAY_0379
+<enZ0007>SAY_0379
+
+//OTHER
+<jaZ0008>SAY_0380
+<enZ0008>SAY_0380
+
+//OTHER
+<jaZ0009>SE_128_3times
+<enZ0009>SE_128_3times
+
+//OTHER
+<jaZ0010>SAY_0381
+<enZ0010>SAY_0381
+
+//OTHER
+<jaZ0011>SAY_0382
+<enZ0011>SAY_0382
+
+//OTHER
+<jaZ0012>SE_003
+<enZ0012>SE_003
+
+//OTHER
+<jaZ0013>ev055f
+<enZ0013>ev055f
+
+//OTHER
+<jaZ0014>SAY_0383
+<enZ0014>SAY_0383
+
+//OTHER
+<jaZ0015>black
+<enZ0015>black
+
+//OTHER
+<jaZ0016>BGM04
+<enZ0016>BGM04
+
+//OTHER
+<jaZ0017>SE_039
+<enZ0017>SE_039
+
+//OTHER
+<jaZ0018>white
+<enZ0018>white
+
+//OTHER
+<jaZ0019>_TextBadEnd
+<enZ0019>_TextBadEnd
+
+</poem>

@@ -1,0 +1,114 @@
+<poem>
+//NAME
+<jaN0001>Ryota
+<enN0001>Ryota
+
+//NAME
+<jaN0002>Shuhei
+<enN0002>Shuhei
+
+//NAME
+<jaN0003>Scarred Man
+<enN0003>Scarred Man
+
+///================================================================================
+
+//TEXT
+<jaT0001>A tempest of high speed rifle bullets fired on full auto.
+<enT0001>A tempest of high speed rifle bullets fired on full auto.
+
+//TEXT 【Ryota】
+<jaT0002>"Uwah!"
+<enT0002>"Uwah!"
+
+//TEXT
+<jaT0003>Ryota's shield just barely managed to repel the bullets, but his arm couldn't take it. He dropped the shield under the intense pressure and fell backwards devoid of strength.
+<enT0003>Ryota's shield just barely managed to repel the bullets, but his arm couldn't take it. He dropped the shield under the intense pressure and fell backwards devoid of strength.
+
+//TEXT 【Shuhei】
+<jaT0004>"Ryota!"
+<enT0004>"Ryota!"
+
+//TEXT
+<jaT0005>I leapt out into the center of the hall, gun in hand, trying to protect the defenseless Ryota.
+<enT0005>I leapt out into the center of the hall, gun in hand, trying to protect the defenseless Ryota.
+
+//TEXT 【Scarred Man】
+<jaT0006>"Who the hell are you?!"
+<enT0006>"Who the hell are you?!"
+
+//TEXT
+<jaT0007>The man was undisturbed by the appearance of a new target. He simply fired his assault rifle one handed again.
+<enT0007>The man was undisturbed by the appearance of a new target. He simply fired his assault rifle one handed again.
+
+//TEXT
+<jaT0008>He had no aim, but there was nothing I could do against that semi-auto rifle.
+<enT0008>He had no aim, but there was nothing I could do against that semi-auto rifle.
+
+//TEXT 【Shuhei】
+<jaT0009>"Dammit!!"
+<enT0009>"Dammit!!"
+
+//TEXT
+<jaT0010>I tried to pull the trigger, but bullets ripped through my arms. The next instant, my chest, my neck, and my head were turned into a honeycomb.
+<enT0010>I tried to pull the trigger, but bullets ripped through my arms. The next instant, my chest, my neck, and my head were turned into a honeycomb.
+
+//TEXT
+<jaT0011>I didn't even have time to feel pain. My consciousness just sank directly into darkness...
+<enT0011>I didn't even have time to feel pain. My consciousness just sank directly into darkness...
+
+//TEXT
+<jaT0012>......
+<enT0012>......
+
+//TEXT
+<jaT0013>...
+<enT0013>...
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend10.bss
+<enZ0001>Game__Bend10.bss
+
+//OTHER
+<jaZ0002>BGM15
+<enZ0002>BGM15
+
+//OTHER
+<jaZ0003>BG21BA
+<enZ0003>BG21BA
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>RYO_0349
+<enZ0005>RYO_0349
+
+//OTHER
+<jaZ0006>ev018a
+<enZ0006>ev018a
+
+//OTHER
+<jaZ0007>GEI_0066
+<enZ0007>GEI_0066
+
+//OTHER
+<jaZ0008>SE_037
+<enZ0008>SE_037
+
+//OTHER
+<jaZ0009>WP05A
+<enZ0009>WP05A
+
+//OTHER
+<jaZ0010>black
+<enZ0010>black
+
+//OTHER
+<jaZ0011>_TextBadEnd
+<enZ0011>_TextBadEnd
+
+</poem>

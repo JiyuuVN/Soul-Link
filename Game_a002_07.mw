@@ -1,0 +1,142 @@
+<poem>
+//NAME
+<jaN0001>Aki
+<enN0001>Aki
+
+//NAME
+<jaN0002>Shuhei
+<enN0002>Shuhei
+
+///================================================================================
+
+//TEXT 【Aki】
+<jaT0001>"Hah, we're finally here."
+<enT0001>"Hah, we're finally here."
+
+//TEXT
+<jaT0002>Aki breathed a sigh of relief.
+<enT0002>Aki breathed a sigh of relief.
+
+//TEXT 【Shuhei】
+<jaT0003>"Oh? It only took one hour. I don't see why you need to add 'finally'."
+<enT0003>"Oh? It only took one hour. I don't see why you need to add 'finally'."
+
+//TEXT 【Aki】
+<jaT0004>"To me, one hour is long enough."
+<enT0004>"To me, one hour is long enough."
+
+//TEXT 【Shuhei】
+<jaT0005>"Whatever. I'm just thankful for gravity."
+<enT0005>"Whatever. I'm just thankful for gravity."
+
+//TEXT 【Aki】
+<jaT0006>"That reminds me, Shuhei-san, you fell over twice in the shuttle didn't you?"
+<enT0006>"That reminds me, Shuhei-san, you fell over twice in the shuttle didn't you?"
+
+//TEXT 【Shuhei】
+<jaT0007>"I'm horrible with magnetic shoes. I always forget to use more force when I lift my legs."
+<enT0007>"I'm horrible with magnetic shoes. I always forget to use more force when I lift my legs."
+
+//TEXT 【Aki】
+<jaT0008>"Hehe."
+<enT0008>"Hehe."
+
+//TEXT
+<jaT0009>As Shuhei scratched his head, Aki smiled cheerfully.
+<enT0009>As Shuhei scratched his head, Aki smiled cheerfully.
+
+//TEXT
+<jaT0010>Magnetic shoes, as the name implies, are shoes with magnets on the soles. This allows them to adhere to the steel floor so one can walk in zero gravity.
+<enT0010>Magnetic shoes, as the name implies, are shoes with magnets on the soles. This allows them to adhere to the steel floor so one can walk in zero gravity.
+
+//TEXT
+<jaT0011>It's a cheap system, so while nearly every space station uses a gravity generator, they're still used on small transport vessels.
+<enT0011>It's a cheap system, so while nearly every space station uses a gravity generator, they're still used on small transport vessels.
+
+//TEXT 【Aki】
+<jaT0012>"The trick to walking in magnetic shoes is the tip. If you put your power into the front tip of your foot, you can walk easily."
+<enT0012>"The trick to walking in magnetic shoes is the tip. If you put your power into the front tip of your foot, you can walk easily."
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_07.bss
+<enZ0001>Game_A002_07.bss
+
+//OTHER
+<jaZ0002>BG17AA
+<enZ0002>BG17AA
+
+//OTHER
+<jaZ0003>mask00
+<enZ0003>mask00
+
+//OTHER
+<jaZ0004>SC-A09AA
+<enZ0004>SC-A09AA
+
+//OTHER
+<jaZ0005>SG-A01AA
+<enZ0005>SG-A01AA
+
+//OTHER
+<jaZ0006>BGM23
+<enZ0006>BGM23
+
+//OTHER
+<jaZ0007>AKI_0048
+<enZ0007>AKI_0048
+
+//OTHER
+<jaZ0008>SG-A10AA
+<enZ0008>SG-A10AA
+
+//OTHER
+<jaZ0009>SYU_0064
+<enZ0009>SYU_0064
+
+//OTHER
+<jaZ0010>SC-A04AA
+<enZ0010>SC-A04AA
+
+//OTHER
+<jaZ0011>AKI_0049
+<enZ0011>AKI_0049
+
+//OTHER
+<jaZ0012>SYU_0065
+<enZ0012>SYU_0065
+
+//OTHER
+<jaZ0013>SC-B01AA
+<enZ0013>SC-B01AA
+
+//OTHER
+<jaZ0014>AKI_0050
+<enZ0014>AKI_0050
+
+//OTHER
+<jaZ0015>SG-A06AA
+<enZ0015>SG-A06AA
+
+//OTHER
+<jaZ0016>SYU_0066
+<enZ0016>SYU_0066
+
+//OTHER
+<jaZ0017>SC-B02AA
+<enZ0017>SC-B02AA
+
+//OTHER
+<jaZ0018>AKI_0051
+<enZ0018>AKI_0051
+
+//OTHER
+<jaZ0019>SC-A01AA
+<enZ0019>SC-A01AA
+
+//OTHER
+<jaZ0020>AKI_0052
+<enZ0020>AKI_0052
+
+</poem>

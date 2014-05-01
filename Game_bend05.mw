@@ -1,0 +1,90 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT
+<jaT0001>I didn't hit them, but I heard the enemy's voice wavering. I was relieved to see that... but it happened merely two seconds later.
+<enT0001>I didn't hit them, but I heard the enemy's voice wavering. I was relieved to see that... but it happened merely two seconds later.
+
+//TEXT 【Shuhei】
+<jaT0002>"Guhagh!"
+<enT0002>"Guhagh!"
+
+//TEXT
+<jaT0003>A hot mass shot through my body from behind, and a salty, iron liquid filled my mouth.
+<enT0003>A hot mass shot through my body from behind, and a salty, iron liquid filled my mouth.
+
+//TEXT 【Shuhei】
+<jaT0004>"(Wh-what? What happened? Why, from behind...?)"
+<enT0004>"(Wh-what? What happened? Why, from behind...?)"
+
+//TEXT
+<jaT0005>I had no time to think about it as I crumbled down to the cold floor. Successive gunshots resounded in my fading consciousness.
+<enT0005>I had no time to think about it as I crumbled down to the cold floor. Successive gunshots resounded in my fading consciousness.
+
+//TEXT 【Shuhei】
+<jaT0006>"......"
+<enT0006>"......"
+
+//TEXT
+<jaT0007>I heard several footsteps running here from the Hamal's direction.
+<enT0007>I heard several footsteps running here from the Hamal's direction.
+
+//TEXT 【Shuhei】
+<jaT0008>"(I see... the obstacle to their invasion is gone now. In other words...)"
+<enT0008>"(I see... the obstacle to their invasion is gone now. In other words...)"
+
+//TEXT
+<jaT0009>My heart was filled with pitch black despair. Soon even my consciousness was pulled into pitch black darkness...
+<enT0009>My heart was filled with pitch black despair. Soon even my consciousness was pulled into pitch black darkness...
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend05.bss
+<enZ0001>Game__Bend05.bss
+
+//OTHER
+<jaZ0002>BGM15
+<enZ0002>BGM15
+
+//OTHER
+<jaZ0003>BG20CA
+<enZ0003>BG20CA
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>SE_029
+<enZ0005>SE_029
+
+//OTHER
+<jaZ0006>WP04A
+<enZ0006>WP04A
+
+//OTHER
+<jaZ0007>BGM04
+<enZ0007>BGM04
+
+//OTHER
+<jaZ0008>black
+<enZ0008>black
+
+//OTHER
+<jaZ0009>WP05A
+<enZ0009>WP05A
+
+//OTHER
+<jaZ0010>SE_030
+<enZ0010>SE_030
+
+//OTHER
+<jaZ0011>_TextBadEnd
+<enZ0011>_TextBadEnd
+
+</poem>

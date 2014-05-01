@@ -1,0 +1,78 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT
+<jaT0001>That's right... A pistol is no match for a sub-machine gun. The possibility is slim, but it's still worth placing my bets on talking with her.
+<enT0001>That's right... A pistol is no match for a sub-machine gun. The possibility is slim, but it's still worth placing my bets on talking with her.
+
+//TEXT
+<jaT0002>Besides, we were comrades up until just now. I can't imagine she would kill me without mercy.
+<enT0002>Besides, we were comrades up until just now. I can't imagine she would kill me without mercy.
+
+//TEXT
+<jaT0003>I raised both hands to show her my lack of resistance and stepped out to into the open.@
+<enT0003>I raised both hands to show her my lack of resistance and stepped out to into the open.@
+
+//TEXT
+<jaT0004>\nHowever...
+<enT0004>\nHowever...
+
+//TEXT 【Shuhei】
+<jaT0005>"...!!"
+<enT0005>"...!!"
+
+//TEXT
+<jaT0006>The instant I raised my head out from behind cover, Yu pulled the trigger, her expression unchanged.
+<enT0006>The instant I raised my head out from behind cover, Yu pulled the trigger, her expression unchanged.
+
+//TEXT
+<jaT0007>Like a deadly thunderstorm, bullets poured mercilessly into my body. In one second, my life was over. There wasn't even time to regret my decision as I collapsed.
+<enT0007>Like a deadly thunderstorm, bullets poured mercilessly into my body. In one second, my life was over. There wasn't even time to regret my decision as I collapsed.
+
+//TEXT
+<jaT0008>......
+<enT0008>......
+
+//TEXT
+<jaT0009>...
+<enT0009>...
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend14.bss
+<enZ0001>Game__Bend14.bss
+
+//OTHER
+<jaZ0002>BGM06
+<enZ0002>BGM06
+
+//OTHER
+<jaZ0003>BG06AA
+<enZ0003>BG06AA
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>black
+<enZ0005>black
+
+//OTHER
+<jaZ0006>SE_034
+<enZ0006>SE_034
+
+//OTHER
+<jaZ0007>WP05A
+<enZ0007>WP05A
+
+//OTHER
+<jaZ0008>_TextBadEnd
+<enZ0008>_TextBadEnd
+
+</poem>

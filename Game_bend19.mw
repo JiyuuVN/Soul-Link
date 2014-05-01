@@ -1,0 +1,98 @@
+<poem>
+//NAME
+<jaN0001>Sayaka
+<enN0001>Sayaka
+
+//NAME
+<jaN0002>Ryota
+<enN0002>Ryota
+
+///================================================================================
+
+//TEXT 【Sayaka】
+<jaT0001>"I know that! I know! But, but..."
+<enT0001>"I know that! I know! But, but..."
+
+//TEXT 【Ryota】
+<jaT0002>"Sayaka-chan!!"
+<enT0002>"Sayaka-chan!!"
+
+//TEXT 【Sayaka】
+<jaT0003>"But, but...*sob* At this rate Aya will..."
+<enT0003>"But, but...*sob* At this rate Aya will..."
+
+//TEXT
+<jaT0004>Sayaka-chan shook her head, shutting me off. She knows what will happen if we continue onward, but now that she is face to face with that problem, she couldn't stay calm enough to abandon her friend and escape.
+<enT0004>Sayaka-chan shook her head, shutting me off. She knows what will happen if we continue onward, but now that she is face to face with that problem, she couldn't stay calm enough to abandon her friend and escape.
+
+//TEXT 【Ryota】
+<jaT0005>"Sayaka-chan..."
+<enT0005>"Sayaka-chan..."
+
+//TEXT
+<jaT0006>I felt powerless and hopeless. I wasn't able to support her at all. She probably couldn't even hear me over her tears.
+<enT0006>I felt powerless and hopeless. I wasn't able to support her at all. She probably couldn't even hear me over her tears.
+
+//TEXT 【Sayaka】
+<jaT0007>"*Sob*...Aya, Aya..."
+<enT0007>"*Sob*...Aya, Aya..."
+
+//TEXT
+<jaT0008>Our maintenance pod lost control and continued to fly straight. Soon enough, the Hamal will find us.
+<enT0008>Our maintenance pod lost control and continued to fly straight. Soon enough, the Hamal will find us.
+
+//TEXT
+<jaT0009>Although I was right beside her, I couldn't help her regain her senses. I felt utterly pathetic.
+<enT0009>Although I was right beside her, I couldn't help her regain her senses. I felt utterly pathetic.
+
+//TEXT
+<jaT0010>......
+<enT0010>......
+
+//TEXT
+<jaT0011>...
+<enT0011>...
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend19.bss
+<enZ0001>Game__Bend19.bss
+
+//OTHER
+<jaZ0002>BGM13
+<enZ0002>BGM13
+
+//OTHER
+<jaZ0003>ev055d
+<enZ0003>ev055d
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>SAY_0758
+<enZ0005>SAY_0758
+
+//OTHER
+<jaZ0006>SAY_0759
+<enZ0006>SAY_0759
+
+//OTHER
+<jaZ0007>black
+<enZ0007>black
+
+//OTHER
+<jaZ0008>BGM04
+<enZ0008>BGM04
+
+//OTHER
+<jaZ0009>SAY_0760
+<enZ0009>SAY_0760
+
+//OTHER
+<jaZ0010>_TextBadEnd
+<enZ0010>_TextBadEnd
+
+</poem>

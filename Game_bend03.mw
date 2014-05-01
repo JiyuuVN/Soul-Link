@@ -1,0 +1,114 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT 【Shuhei】
+<jaT0001>"Whatever. Let's go."
+<enT0001>"Whatever. Let's go."
+
+//TEXT
+<jaT0002>As we had planned, I'd wait for the enemy in the center of the passage.@
+<enT0002>As we had planned, I'd wait for the enemy in the center of the passage.@
+
+//TEXT
+<jaT0003>\nIt was at that moment.
+<enT0003>\nIt was at that moment.
+
+//TEXT 【Shuhei】
+<jaT0004>"Alright, alright, now..."
+<enT0004>"Alright, alright, now..."
+
+//TEXT
+<jaT0005>I leaned out to see inside.@
+<enT0005>I leaned out to see inside.@
+
+//TEXT
+<jaT0006>\nIt was at that moment.
+<enT0006>\nIt was at that moment.
+
+//TEXT 【Shuhei】
+<jaT0007>"Gah!"
+<enT0007>"Gah!"
+
+//TEXT
+<jaT0008>A hot, hard object shot through my body from behind.
+<enT0008>A hot, hard object shot through my body from behind.
+
+//TEXT 【Shuhei】
+<jaT0009>"(What? What happened?!)"
+<enT0009>"(What? What happened?!)"
+
+//TEXT
+<jaT0010>I tried to bear the intense pain and turn around. I heard Cellaria-san cry out in panic. It seems the person right beside her was furiously attacking her.
+<enT0010>I tried to bear the intense pain and turn around. I heard Cellaria-san cry out in panic. It seems the person right beside her was furiously attacking her.
+
+//TEXT
+<jaT0011>After the sound of two successive gunshots, even her voice completely stopped.
+<enT0011>After the sound of two successive gunshots, even her voice completely stopped.
+
+//TEXT 【Shuhei】
+<jaT0012>"(Wait, don't tell me? Dammit! I was too naive!)"
+<enT0012>"(Wait, don't tell me? Dammit! I was too naive!)"
+
+//TEXT
+<jaT0013>A hot substance came pouring out my mouth. I put everything I had into firing back with the gun in my right hand, but that was it.
+<enT0013>A hot substance came pouring out my mouth. I put everything I had into firing back with the gun in my right hand, but that was it.
+
+//TEXT
+<jaT0014>I collapsed in the passage, and lost consciousness.
+<enT0014>I collapsed in the passage, and lost consciousness.
+
+//TEXT
+<jaT0015>......
+<enT0015>......
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend03.bss
+<enZ0001>Game__Bend03.bss
+
+//OTHER
+<jaZ0002>BGM05
+<enZ0002>BGM05
+
+//OTHER
+<jaZ0003>BG20CA
+<enZ0003>BG20CA
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>SE_028
+<enZ0005>SE_028
+
+//OTHER
+<jaZ0006>WP04A
+<enZ0006>WP04A
+
+//OTHER
+<jaZ0007>BGM04
+<enZ0007>BGM04
+
+//OTHER
+<jaZ0008>SE_029
+<enZ0008>SE_029
+
+//OTHER
+<jaZ0009>SE_077
+<enZ0009>SE_077
+
+//OTHER
+<jaZ0010>black
+<enZ0010>black
+
+//OTHER
+<jaZ0011>_TextBadEnd
+<enZ0011>_TextBadEnd
+
+</poem>

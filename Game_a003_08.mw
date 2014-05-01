@@ -1,0 +1,86 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+//NAME
+<jaN0002>Cellaria
+<enN0002>Cellaria
+
+///================================================================================
+
+//TEXT
+<jaT0001>Cellaria couldn't continue after that last word.
+<enT0001>Cellaria couldn't continue after that last word.
+
+//TEXT
+<jaT0002>She didn't need to say anymore. It was already clear a serious incident had occurred.
+<enT0002>She didn't need to say anymore. It was already clear a serious incident had occurred.
+
+//TEXT
+<jaT0003>Taken aback, the three of them looked up at the speaker.
+<enT0003>Taken aback, the three of them looked up at the speaker.
+
+//TEXT 【Shuhei】
+<jaT0004>"Wh-what's that sound?"
+<enT0004>"Wh-what's that sound?"
+
+//TEXT 【Cellaria】
+<jaT0005>"The Near Miss Bell. It alerts us to the abnormal proximity of an unpredicted object. It's an emergency alarm."
+<enT0005>"The Near Miss Bell. It alerts us to the abnormal proximity of an unpredicted object. It's an emergency alarm."
+
+//TEXT
+<jaT0006>The emergency call was heard throughout every module on the Aries.
+<enT0006>The emergency call was heard throughout every module on the Aries.
+
+//TEXT
+<jaT0007>That deep sound sent chills through all who heard it, however...
+<enT0007>That deep sound sent chills through all who heard it, however...
+
+//TEXT
+<jaT0008>It was only the beginning of the fearsome events to come.
+<enT0008>It was only the beginning of the fearsome events to come.
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A003_08.bss
+<enZ0001>Game_A003_08.bss
+
+//OTHER
+<jaZ0002>loop_SE_083
+<enZ0002>loop_SE_083
+
+//OTHER
+<jaZ0003>SG_A04AA
+<enZ0003>SG_A04AA
+
+//OTHER
+<jaZ0004>SE_A09AA
+<enZ0004>SE_A09AA
+
+//OTHER
+<jaZ0005>SA_A04AA
+<enZ0005>SA_A04AA
+
+//OTHER
+<jaZ0006>SYU_0187
+<enZ0006>SYU_0187
+
+//OTHER
+<jaZ0007>SE_A04AA
+<enZ0007>SE_A04AA
+
+//OTHER
+<jaZ0008>SER_0036
+<enZ0008>SER_0036
+
+//OTHER
+<jaZ0009>black
+<enZ0009>black
+
+//OTHER
+<jaZ0010>mask00
+<enZ0010>mask00
+
+</poem>

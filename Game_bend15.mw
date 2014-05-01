@@ -1,0 +1,166 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT
+<jaT0001>Right, I'll go to the laboratory once again.
+<enT0001>Right, I'll go to the laboratory once again.
+
+//TEXT
+<jaT0002>Right, I'll go to the infirmary once again.
+<enT0002>Right, I'll go to the infirmary once again.
+
+//TEXT
+<jaT0003>Right, I'll go to the infirmary.
+<enT0003>Right, I'll go to the infirmary.
+
+//TEXT
+<jaT0004>Right, I'll go to the guest rooms once again.
+<enT0004>Right, I'll go to the guest rooms once again.
+
+//TEXT
+<jaT0005>I set out, being careful not to make any noise.
+<enT0005>I set out, being careful not to make any noise.
+
+//TEXT
+<jaT0006>......
+<enT0006>......
+
+//TEXT
+<jaT0007>While I was heading to my destination I passed by the central hallway. Slowly, but steadily, the time limit on our emergency power was approaching. I have to hurry...
+<enT0007>While I was heading to my destination I passed by the central hallway. Slowly, but steadily, the time limit on our emergency power was approaching. I have to hurry...
+
+//TEXT
+<jaT0008>Maybe my impatience was getting the best of me. Even though moving around in this wide area was the most dangerous thing to do, it seems like I lost my concentration.
+<enT0008>Maybe my impatience was getting the best of me. Even though moving around in this wide area was the most dangerous thing to do, it seems like I lost my concentration.
+
+//TEXT
+<jaT0009>Suddenly, I sensed someone and spun around...
+<enT0009>Suddenly, I sensed someone and spun around...
+
+//TEXT
+<jaT0010>But before I knew it, Yu was standing surprisingly close to me.
+<enT0010>But before I knew it, Yu was standing surprisingly close to me.
+
+//TEXT 【Shuhei】
+<jaT0011>"Dammit!"
+<enT0011>"Dammit!"
+
+//TEXT
+<jaT0012>I tried to run. If I returned fire in this vacant hallway, I would never win against her firepower. If I could just escape to the corner right in front of me...
+<enT0012>I tried to run. If I returned fire in this vacant hallway, I would never win against her firepower. If I could just escape to the corner right in front of me...
+
+//TEXT
+<jaT0013>It was all too late. No, it was already too late the moment she caught me off guard.
+<enT0013>It was all too late. No, it was already too late the moment she caught me off guard.
+
+//TEXT
+<jaT0014>By the time I took my first step, Yu had already set her sights.
+<enT0014>By the time I took my first step, Yu had already set her sights.
+
+//TEXT
+<jaT0015>A thunderous roar. The barrage of merciless gunshots resounded through the hall and red sparks fell to the floor. One of those bullets hit my leg.
+<enT0015>A thunderous roar. The barrage of merciless gunshots resounded through the hall and red sparks fell to the floor. One of those bullets hit my leg.
+
+//TEXT 【Shuhei】
+<jaT0016>"Gah!"
+<enT0016>"Gah!"
+
+//TEXT
+<jaT0017>I pitched forward and landed on the floor.
+<enT0017>I pitched forward and landed on the floor.
+
+//TEXT
+<jaT0018>I couldn't move my leg. The pain might go away in a few minutes, but a hardened soldier like her wasn't going to give me that time.
+<enT0018>I couldn't move my leg. The pain might go away in a few minutes, but a hardened soldier like her wasn't going to give me that time.
+
+//TEXT
+<jaT0019>I wasn't going to just wait for my death so I took a gamble and tried to ready my gun, but...
+<enT0019>I wasn't going to just wait for my death so I took a gamble and tried to ready my gun, but...
+
+//TEXT
+<jaT0020>She quickly crushed my hopes.
+<enT0020>She quickly crushed my hopes.
+
+//TEXT
+<jaT0021>I couldn't move my leg. Still, I can't just lie here and wait for Yu's second attack. I desperately readied my gun and tried to aim for Yu.
+<enT0021>I couldn't move my leg. Still, I can't just lie here and wait for Yu's second attack. I desperately readied my gun and tried to aim for Yu.
+
+//TEXT
+<jaT0022>However, she wouldn't give me that chance.
+<enT0022>However, she wouldn't give me that chance.
+
+//TEXT
+<jaT0023>Yu's eyes were ice cold. She didn't approach me, she just rained down bullets. It was the most effective attack now that I couldn't move.
+<enT0023>Yu's eyes were ice cold. She didn't approach me, she just rained down bullets. It was the most effective attack now that I couldn't move.
+
+//TEXT
+<jaT0024>In no time, the hallway was stained in red blood. After the finishing blow, she fired off another round, and my consciousness faded into darkness...
+<enT0024>In no time, the hallway was stained in red blood. After the finishing blow, she fired off another round, and my consciousness faded into darkness...
+
+//TEXT
+<jaT0025>......
+<enT0025>......
+
+//TEXT
+<jaT0026>...
+<enT0026>...
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend15.bss
+<enZ0001>Game__Bend15.bss
+
+//OTHER
+<jaZ0002>BGM18
+<enZ0002>BGM18
+
+//OTHER
+<jaZ0003>MS_BG
+<enZ0003>MS_BG
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>black
+<enZ0005>black
+
+//OTHER
+<jaZ0006>BG09AB
+<enZ0006>BG09AB
+
+//OTHER
+<jaZ0007>SD_B03BB
+<enZ0007>SD_B03BB
+
+//OTHER
+<jaZ0008>ev027b
+<enZ0008>ev027b
+
+//OTHER
+<jaZ0009>BGM04
+<enZ0009>BGM04
+
+//OTHER
+<jaZ0010>SE_034
+<enZ0010>SE_034
+
+//OTHER
+<jaZ0011>SE_076
+<enZ0011>SE_076
+
+//OTHER
+<jaZ0012>WP04A
+<enZ0012>WP04A
+
+//OTHER
+<jaZ0013>_TextBadEnd
+<enZ0013>_TextBadEnd
+
+</poem>

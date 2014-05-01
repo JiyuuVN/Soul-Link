@@ -1,0 +1,206 @@
+<poem>
+//NAME
+<jaN0001>Girl
+<enN0001>Girl
+
+//NAME
+<jaN0002>Ryota
+<enN0002>Ryota
+
+//NAME
+<jaN0003>Nao
+<enN0003>Nao
+
+//NAME
+<jaN0004>???
+<enN0004>???
+
+///================================================================================
+
+//TEXT
+<jaT0001>His saviour, someone he'd been longing to talk to, finally came through the automatic door.
+<enT0001>His saviour, someone he'd been longing to talk to, finally came through the automatic door.
+
+//TEXT 【Girl】
+<jaT0002>"Oh, so you were here."
+<enT0002>"Oh, so you were here."
+
+//TEXT 【Ryota】
+<jaT0003>"Ah! Nao-san!"
+<enT0003>"Ah! Nao-san!"
+
+//TEXT
+<jaT0004>As Ryota snapped up, the girl called 'Nao' wore a mischievous smile.
+<enT0004>As Ryota snapped up, the girl called 'Nao' wore a mischievous smile.
+
+//TEXT 【Nao】
+<jaT0005>"Haha, what's wrong? You look awfully surprised."
+<enT0005>"Haha, what's wrong? You look awfully surprised."
+
+//TEXT 【Ryota】
+<jaT0006>"Hahaha."
+<enT0006>"Hahaha."
+
+//TEXT
+<jaT0007>Since he couldn't possibly say 'I've been here alone, complaining up until now', he tried to laugh it away.
+<enT0007>Since he couldn't possibly say 'I've been here alone, complaining up until now', he tried to laugh it away.
+
+//TEXT
+<jaT0008>Her name was Morisaki Nao, a 4th year cadet of the Central Military Preparatory Academy. Like Ryota, she came to the Aries for her training.
+<enT0008>Her name was Morisaki Nao, a 4th year cadet of the Central Military Preparatory Academy. Like Ryota, she came to the Aries for her training.
+
+//TEXT
+<jaT0009>They have known each other for over 10 years, so they acted like siblings.
+<enT0009>They have known each other for over 10 years, so they acted like siblings.
+
+//TEXT 【Nao】
+<jaT0010>"What were you doing here, Ryota-kun? I was free so I came to see if you were here."
+<enT0010>"What were you doing here, Ryota-kun? I was free so I came to see if you were here."
+
+//TEXT 【Ryota】
+<jaT0011>"The same goes for me. To be honest, I was about to die from boredom."
+<enT0011>"The same goes for me. To be honest, I was about to die from boredom."
+
+//TEXT 【Nao】
+<jaT0012>"Hehe, you're exaggerating as always, Ryota-kun."
+<enT0012>"Hehe, you're exaggerating as always, Ryota-kun."
+
+//TEXT 【Ryota】
+<jaT0013>"Exaggerating? Well, I may not have died, but I was waiting."
+<enT0013>"Exaggerating? Well, I may not have died, but I was waiting."
+
+//TEXT 【Nao】
+<jaT0014>"Hehe, ahaha."
+<enT0014>"Hehe, ahaha."
+
+//TEXT
+<jaT0015>As she watched Ryota's expression turn sour, Nao laughed more and more.
+<enT0015>As she watched Ryota's expression turn sour, Nao laughed more and more.
+
+//TEXT 【Ryota】
+<jaT0016>"That's mean, laughing like that. Anyways, I've got good news for you, Nao-san."
+<enT0016>"That's mean, laughing like that. Anyways, I've got good news for you, Nao-san."
+
+//TEXT 【Nao】
+<jaT0017>"Eh? What's that?"
+<enT0017>"Eh? What's that?"
+
+//TEXT
+<jaT0018>Ryota suddenly looked serious so Nao was deeply intrigued. Then at that moment...
+<enT0018>Ryota suddenly looked serious so Nao was deeply intrigued. Then at that moment...
+
+//TEXT 【???】
+<jaT0019>"You look like you're having fun, Nao-san. Did Ryota do something foolish again?"
+<enT0019>"You look like you're having fun, Nao-san. Did Ryota do something foolish again?"
+
+//TEXT 【Ryota】
+<jaT0020>"(Hmm? This voice, don't tell me...)"
+<enT0020>"(Hmm? This voice, don't tell me...)"
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_02.bss
+<enZ0001>Game_A002_02.bss
+
+//OTHER
+<jaZ0002>SE_014
+<enZ0002>SE_014
+
+//OTHER
+<jaZ0003>SA_A01AA
+<enZ0003>SA_A01AA
+
+//OTHER
+<jaZ0004>BGM12
+<enZ0004>BGM12
+
+//OTHER
+<jaZ0005>NAO_0003
+<enZ0005>NAO_0003
+
+//OTHER
+<jaZ0006>SH_A09AA
+<enZ0006>SH_A09AA
+
+//OTHER
+<jaZ0007>RYO_0006
+<enZ0007>RYO_0006
+
+//OTHER
+<jaZ0008>SA_B02AA
+<enZ0008>SA_B02AA
+
+//OTHER
+<jaZ0009>NAO_0004
+<enZ0009>NAO_0004
+
+//OTHER
+<jaZ0010>SH_A11AA
+<enZ0010>SH_A11AA
+
+//OTHER
+<jaZ0011>RYO_0007
+<enZ0011>RYO_0007
+
+//OTHER
+<jaZ0012>NAO_0005
+<enZ0012>NAO_0005
+
+//OTHER
+<jaZ0013>SH_A01AA
+<enZ0013>SH_A01AA
+
+//OTHER
+<jaZ0014>RYO_0008
+<enZ0014>RYO_0008
+
+//OTHER
+<jaZ0015>NAO_0006
+<enZ0015>NAO_0006
+
+//OTHER
+<jaZ0016>SH_A04AA
+<enZ0016>SH_A04AA
+
+//OTHER
+<jaZ0017>RYO_0009
+<enZ0017>RYO_0009
+
+//OTHER
+<jaZ0018>SA_B03AA
+<enZ0018>SA_B03AA
+
+//OTHER
+<jaZ0019>NAO_0007
+<enZ0019>NAO_0007
+
+//OTHER
+<jaZ0020>SH_A10AA
+<enZ0020>SH_A10AA
+
+//OTHER
+<jaZ0021>RYO_0010
+<enZ0021>RYO_0010
+
+//OTHER
+<jaZ0022>SA_B01AA
+<enZ0022>SA_B01AA
+
+//OTHER
+<jaZ0023>SH_A05AA
+<enZ0023>SH_A05AA
+
+//OTHER
+<jaZ0024>NAO_0008
+<enZ0024>NAO_0008
+
+//OTHER
+<jaZ0025>KAZ_0000
+<enZ0025>KAZ_0000
+
+//OTHER
+<jaZ0026>RYO_0011
+<enZ0026>RYO_0011
+
+</poem>

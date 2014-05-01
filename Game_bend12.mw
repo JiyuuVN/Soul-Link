@@ -1,0 +1,130 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT
+<jaT0001>Right. I remembered the two hand grenades I got from Ryota. It was a dangerous weapon that could catch us in the blast if I was one step off, but if we can't use our guns, it may be time for this.
+<enT0001>Right. I remembered the two hand grenades I got from Ryota. It was a dangerous weapon that could catch us in the blast if I was one step off, but if we can't use our guns, it may be time for this.
+
+//TEXT
+<jaT0002>I gripping the lever of the grenade and pulled the safety pin. Then I looked at the man heading for us.
+<enT0002>I gripping the lever of the grenade and pulled the safety pin. Then I looked at the man heading for us.
+
+//TEXT
+<jaT0003>He shouldn't be able to defend against the blast with that shield. If I time it right and it explodes point-blank, it should stop his assault.
+<enT0003>He shouldn't be able to defend against the blast with that shield. If I time it right and it explodes point-blank, it should stop his assault.
+
+//TEXT
+<jaT0004>I carefully calculated the distance and checked to make sure all our members were behind cover. Alright. We're in a closed space, but if we have this much distance from the target, we should be safe.
+<enT0004>I carefully calculated the distance and checked to make sure all our members were behind cover. Alright. We're in a closed space, but if we have this much distance from the target, we should be safe.
+
+//TEXT
+<jaT0005>I made sure there were no mistakes, and hurled the hand grenade in a straight arc to avoid the ceiling.
+<enT0005>I made sure there were no mistakes, and hurled the hand grenade in a straight arc to avoid the ceiling.
+
+//TEXT 【Shuhei】
+<jaT0006>"Alright, everyone get down!"
+<enT0006>"Alright, everyone get down!"
+
+//TEXT
+<jaT0007>I shouted, checked the target, and watched the grenade fly straight for the man. However...
+<enT0007>I shouted, checked the target, and watched the grenade fly straight for the man. However...
+
+//TEXT 【Shuhei】
+<jaT0008>"(Does he have some idea? He's not panicked at all.)"
+<enT0008>"(Does he have some idea? He's not panicked at all.)"
+
+//TEXT
+<jaT0009>I had a bad feeling and a chill went down my spine. The next instant, my worry became reality.
+<enT0009>I had a bad feeling and a chill went down my spine. The next instant, my worry became reality.
+
+//TEXT
+<jaT0010>The man suddenly ran for the hand grenade and thrust the shield in his left hand forward.
+<enT0010>The man suddenly ran for the hand grenade and thrust the shield in his left hand forward.
+
+//TEXT
+<jaT0011>The next instant, the grenade hit the shield and rebounded with a thud, rolling along the ground back to us.
+<enT0011>The next instant, the grenade hit the shield and rebounded with a thud, rolling along the ground back to us.
+
+//TEXT 【Shuhei】
+<jaT0012>"(That bastard!)"
+<enT0012>"(That bastard!)"
+
+//TEXT
+<jaT0013>The hand grenade we used was originally theirs. He must have known the exact timing after lighting the fuse.
+<enT0013>The hand grenade we used was originally theirs. He must have known the exact timing after lighting the fuse.
+
+//TEXT
+<jaT0014>That grenade, round like an apple, came cruelly rolling back to us.
+<enT0014>That grenade, round like an apple, came cruelly rolling back to us.
+
+//TEXT 【Shuhei】
+<jaT0015>"(Shit! If it explodes at this range everyone will...)"
+<enT0015>"(Shit! If it explodes at this range everyone will...)"
+
+//TEXT
+<jaT0016>Everyone had taken cover, so no one knew what had happened. I was the only one who could respond.
+<enT0016>Everyone had taken cover, so no one knew what had happened. I was the only one who could respond.
+
+//TEXT
+<jaT0017>I automatically tried to cover the grenade. However...
+<enT0017>I automatically tried to cover the grenade. However...
+
+//TEXT
+<jaT0018>The next instant my body was blown apart in the fierce explosion.
+<enT0018>The next instant my body was blown apart in the fierce explosion.
+
+//TEXT
+<jaT0019>......
+<enT0019>......
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend12.bss
+<enZ0001>Game__Bend12.bss
+
+//OTHER
+<jaZ0002>BGM15
+<enZ0002>BGM15
+
+//OTHER
+<jaZ0003>BG21BA
+<enZ0003>BG21BA
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>black
+<enZ0005>black
+
+//OTHER
+<jaZ0006>ev018a
+<enZ0006>ev018a
+
+//OTHER
+<jaZ0007>SE_048
+<enZ0007>SE_048
+
+//OTHER
+<jaZ0008>BGM04
+<enZ0008>BGM04
+
+//OTHER
+<jaZ0009>white
+<enZ0009>white
+
+//OTHER
+<jaZ0010>SE_039
+<enZ0010>SE_039
+
+//OTHER
+<jaZ0011>_TextBadEnd
+<enZ0011>_TextBadEnd
+
+</poem>

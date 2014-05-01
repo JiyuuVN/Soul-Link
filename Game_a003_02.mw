@@ -1,0 +1,166 @@
+<poem>
+//NAME
+<jaN0001>Ryota
+<enN0001>Ryota
+
+//NAME
+<jaN0002>Nao
+<enN0002>Nao
+
+//NAME
+<jaN0003>Kazuhiko
+<enN0003>Kazuhiko
+
+///================================================================================
+
+//TEXT
+<jaT0001>Meanwhile...
+<enT0001>Meanwhile...
+
+//TEXT 【Ryota】
+<jaT0002>"Alright, well it's almost time to start, so I should be heading back."
+<enT0002>"Alright, well it's almost time to start, so I should be heading back."
+
+//TEXT 【Nao】
+<jaT0003>"Oh? It's already that late? We've been talking for quite a while."
+<enT0003>"Oh? It's already that late? We've been talking for quite a while."
+
+//TEXT
+<jaT0004>A large part of their conversation was spent on Ryota and Kazuhiko fighting. Nao didn't stand there and do nothing, but it just ended up reconfirming how futile it was to make those two reconcile.
+<enT0004>A large part of their conversation was spent on Ryota and Kazuhiko fighting. Nao didn't stand there and do nothing, but it just ended up reconfirming how futile it was to make those two reconcile.
+
+//TEXT 【Ryota】
+<jaT0005>"Nao-san, you've still got time don't you?"
+<enT0005>"Nao-san, you've still got time don't you?"
+
+//TEXT 【Nao】
+<jaT0006>"Yes, I'm fine. I still have about an hour left for my break."
+<enT0006>"Yes, I'm fine. I still have about an hour left for my break."
+
+//TEXT 【Kazuhiko】
+<jaT0007>"What a coincidence, so do I. We can stay together a while longer."
+<enT0007>"What a coincidence, so do I. We can stay together a while longer."
+
+//TEXT 【Nao】
+<jaT0008>"I, I see. That's great."
+<enT0008>"I, I see. That's great."
+
+//TEXT
+<jaT0009>Nao wore a troubled, doubtful smile. Kazuhiko, who didn't notice at all, accepted her words for their literal meaning, and was sincerely happy.
+<enT0009>Nao wore a troubled, doubtful smile. Kazuhiko, who didn't notice at all, accepted her words for their literal meaning, and was sincerely happy.
+
+//TEXT 【Ryota】
+<jaT0010>"Tsk. I'm the only one going back? That's no fun."
+<enT0010>"Tsk. I'm the only one going back? That's no fun."
+
+//TEXT 【Nao】
+<jaT0011>"Ryota-kun, do your best in practice."
+<enT0011>"Ryota-kun, do your best in practice."
+
+//TEXT 【Ryota】
+<jaT0012>"Right, right."
+<enT0012>"Right, right."
+
+//TEXT
+<jaT0013>Nao saw Ryota off as he left the lounge.
+<enT0013>Nao saw Ryota off as he left the lounge.
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A003_02.bss
+<enZ0001>Game_A003_02.bss
+
+//OTHER
+<jaZ0002>black
+<enZ0002>black
+
+//OTHER
+<jaZ0003>mask00
+<enZ0003>mask00
+
+//OTHER
+<jaZ0004>SH_A01AA
+<enZ0004>SH_A01AA
+
+//OTHER
+<jaZ0005>SI_A01AA
+<enZ0005>SI_A01AA
+
+//OTHER
+<jaZ0006>SA_A01AA
+<enZ0006>SA_A01AA
+
+//OTHER
+<jaZ0007>BG06BA
+<enZ0007>BG06BA
+
+//OTHER
+<jaZ0008>BGM12
+<enZ0008>BGM12
+
+//OTHER
+<jaZ0009>RYO_0039
+<enZ0009>RYO_0039
+
+//OTHER
+<jaZ0010>SA_B01AA
+<enZ0010>SA_B01AA
+
+//OTHER
+<jaZ0011>NAO_0039
+<enZ0011>NAO_0039
+
+//OTHER
+<jaZ0012>SH_A09AA
+<enZ0012>SH_A09AA
+
+//OTHER
+<jaZ0013>RYO_0040
+<enZ0013>RYO_0040
+
+//OTHER
+<jaZ0014>SA_B02AA
+<enZ0014>SA_B02AA
+
+//OTHER
+<jaZ0015>NAO_0040
+<enZ0015>NAO_0040
+
+//OTHER
+<jaZ0016>SI_A10AA
+<enZ0016>SI_A10AA
+
+//OTHER
+<jaZ0017>KAZ_0016
+<enZ0017>KAZ_0016
+
+//OTHER
+<jaZ0018>SA_B07AA
+<enZ0018>SA_B07AA
+
+//OTHER
+<jaZ0019>NAO_0041
+<enZ0019>NAO_0041
+
+//OTHER
+<jaZ0020>SH_A04AA
+<enZ0020>SH_A04AA
+
+//OTHER
+<jaZ0021>RYO_0041
+<enZ0021>RYO_0041
+
+//OTHER
+<jaZ0022>NAO_0042
+<enZ0022>NAO_0042
+
+//OTHER
+<jaZ0023>SH_A10AA
+<enZ0023>SH_A10AA
+
+//OTHER
+<jaZ0024>RYO_0042
+<enZ0024>RYO_0042
+
+</poem>

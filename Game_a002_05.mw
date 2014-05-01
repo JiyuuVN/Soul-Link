@@ -1,0 +1,182 @@
+<poem>
+//NAME
+<jaN0001>Nao
+<enN0001>Nao
+
+//NAME
+<jaN0002>Ryota
+<enN0002>Ryota
+
+//NAME
+<jaN0003>Kazuhiko
+<enN0003>Kazuhiko
+
+///================================================================================
+
+//TEXT 【Nao】
+<jaT0001>"Aha, They're gone. He may be a prankster, but he was cute."
+<enT0001>"Aha, They're gone. He may be a prankster, but he was cute."
+
+//TEXT 【Ryota】
+<jaT0002>"Yea..."
+<enT0002>"Yea..."
+
+//TEXT 【Ryota】
+<jaT0003>"Wait, that's your reaction? Shouldn't you be angry right now?"
+<enT0003>"Wait, that's your reaction? Shouldn't you be angry right now?"
+
+//TEXT 【Kazuhiko】
+<jaT0004>"Nao-san, you really do like children. I'm surprised."
+<enT0004>"Nao-san, you really do like children. I'm surprised."
+
+//TEXT
+<jaT0005>The two of them looked at Nao in admiration.
+<enT0005>The two of them looked at Nao in admiration.
+
+//TEXT
+<jaT0006>Especially Kazuhiko, who respectfully placed his hand to his chest to show his great admiration.
+<enT0006>Especially Kazuhiko, who respectfully placed his hand to his chest to show his great admiration.
+
+//TEXT 【Nao】
+<jaT0007>"I-it's nothing really. It's embarrassing to hear you put it like that..."
+<enT0007>"I-it's nothing really. It's embarrassing to hear you put it like that..."
+
+//TEXT 【Nao】
+<jaT0008>"Besides, Ryota-kun, what was it you tried to say earlier?"
+<enT0008>"Besides, Ryota-kun, what was it you tried to say earlier?"
+
+//TEXT 【Ryota】
+<jaT0009>"Huh?"
+<enT0009>"Huh?"
+
+//TEXT 【Nao】
+<jaT0010>"You know, the good news. What is it?"
+<enT0010>"You know, the good news. What is it?"
+
+//TEXT 【Ryota】
+<jaT0011>"Oh, that's right."
+<enT0011>"Oh, that's right."
+
+//TEXT
+<jaT0012>Striking his palm with his fist, Ryota showed his recollection.
+<enT0012>Striking his palm with his fist, Ryota showed his recollection.
+
+//TEXT
+<jaT0013>Then he faced Nao with a serious expression.
+<enT0013>Then he faced Nao with a serious expression.
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_05.bss
+<enZ0001>Game_A002_05.bss
+
+//OTHER
+<jaZ0002>SH_A06AA
+<enZ0002>SH_A06AA
+
+//OTHER
+<jaZ0003>SI_A08AA
+<enZ0003>SI_A08AA
+
+//OTHER
+<jaZ0004>SA_B03AA
+<enZ0004>SA_B03AA
+
+//OTHER
+<jaZ0005>BG06BA
+<enZ0005>BG06BA
+
+//OTHER
+<jaZ0006>mask00
+<enZ0006>mask00
+
+//OTHER
+<jaZ0007>BGM23
+<enZ0007>BGM23
+
+//OTHER
+<jaZ0008>NAO_0028
+<enZ0008>NAO_0028
+
+//OTHER
+<jaZ0009>SH_A11AA
+<enZ0009>SH_A11AA
+
+//OTHER
+<jaZ0010>RYO_0028
+<enZ0010>RYO_0028
+
+//OTHER
+<jaZ0011>SH_A10AA
+<enZ0011>SH_A10AA
+
+//OTHER
+<jaZ0012>RYO_0029
+<enZ0012>RYO_0029
+
+//OTHER
+<jaZ0013>SI_A10AA
+<enZ0013>SI_A10AA
+
+//OTHER
+<jaZ0014>KAZ_0012
+<enZ0014>KAZ_0012
+
+//OTHER
+<jaZ0015>SH_A01AA
+<enZ0015>SH_A01AA
+
+//OTHER
+<jaZ0016>SA_B04AA
+<enZ0016>SA_B04AA
+
+//OTHER
+<jaZ0017>SI_A03AA
+<enZ0017>SI_A03AA
+
+//OTHER
+<jaZ0018>SA_B07AA
+<enZ0018>SA_B07AA
+
+//OTHER
+<jaZ0019>NAO_0029
+<enZ0019>NAO_0029
+
+//OTHER
+<jaZ0020>SA_B01AA
+<enZ0020>SA_B01AA
+
+//OTHER
+<jaZ0021>NAO_0030
+<enZ0021>NAO_0030
+
+//OTHER
+<jaZ0022>SH_A09AA
+<enZ0022>SH_A09AA
+
+//OTHER
+<jaZ0023>SI_A01AA
+<enZ0023>SI_A01AA
+
+//OTHER
+<jaZ0024>RYO_0030
+<enZ0024>RYO_0030
+
+//OTHER
+<jaZ0025>SA_A01AA
+<enZ0025>SA_A01AA
+
+//OTHER
+<jaZ0026>NAO_0031
+<enZ0026>NAO_0031
+
+//OTHER
+<jaZ0027>RYO_0031
+<enZ0027>RYO_0031
+
+//OTHER
+<jaZ0028>SH_A05AA
+<enZ0028>SH_A05AA
+
+</poem>

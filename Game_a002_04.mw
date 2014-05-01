@@ -1,0 +1,290 @@
+<poem>
+//NAME
+<jaN0001>Child
+<enN0001>Child
+
+//NAME
+<jaN0002>Nao
+<enN0002>Nao
+
+//NAME
+<jaN0003>Ryota
+<enN0003>Ryota
+
+//NAME
+<jaN0004>Kazuhiko
+<enN0004>Kazuhiko
+
+//NAME
+<jaN0005>Mother
+<enN0005>Mother
+
+///================================================================================
+
+//TEXT
+<jaT0001>Nao chided the two of them with a look of astonishment.@
+<enT0001>Nao chided the two of them with a look of astonishment.@
+
+//TEXT
+<jaT0002>\nAt that moment......
+<enT0002>\nAt that moment......
+
+//TEXT 【Child】
+<jaT0003>"Onee-chan!"
+<enT0003>"Onee-chan!"
+
+//TEXT 【Nao】
+<jaT0004>"Huh?"
+<enT0004>"Huh?"
+
+//TEXT 【Nao】
+<jaT0005>"Huh? Kyaa! Kyaa!"
+<enT0005>"Huh? Kyaa! Kyaa!"
+
+//TEXT 【Ryota】
+<jaT0006>"Waaah?!"
+<enT0006>"Waaah?!"
+
+//TEXT
+<jaT0007>The mood immediately changed.
+<enT0007>The mood immediately changed.
+
+//TEXT
+<jaT0008>Nao was completely flustered and couldn't think.
+<enT0008>Nao was completely flustered and couldn't think.
+
+//TEXT
+<jaT0009>It was only natural. Even Kazuhiko, who should have remained calm, couldn't take his eyes off the situation.
+<enT0009>It was only natural. Even Kazuhiko, who should have remained calm, couldn't take his eyes off the situation.
+
+//TEXT 【Nao】
+<jaT0010>"Um, um, what should I do..."
+<enT0010>"Um, um, what should I do..."
+
+//TEXT 【Kazuhiko】
+<jaT0011>"Well... For now, shouldn't you push your skirt down?"
+<enT0011>"Well... For now, shouldn't you push your skirt down?"
+
+//TEXT 【Nao】
+<jaT0012>"B-but I'm carrying the tray of tea..."
+<enT0012>"B-but I'm carrying the tray of tea..."
+
+//TEXT 【Kazuhiko】
+<jaT0013>"Oh, right."
+<enT0013>"Oh, right."
+
+//TEXT
+<jaT0014>Although this exchange sounded foolish, they were very serious.
+<enT0014>Although this exchange sounded foolish, they were very serious.
+
+//TEXT
+<jaT0015>Ryota was beet red and hiding his heading in shame, being absolutely useless.
+<enT0015>Ryota was beet red and hiding his heading in shame, being absolutely useless.
+
+//TEXT 【Child】
+<jaT0016>"Onee-chan, They're striped aren't they?"
+<enT0016>"Onee-chan, They're striped aren't they?"
+
+//TEXT 【Mother】
+<jaT0017>"H-Hey, Masato!"
+<enT0017>"H-Hey, Masato!"
+
+//TEXT 【Mother】
+<jaT0018>"I-I'm sorry!"
+<enT0018>"I-I'm sorry!"
+
+//TEXT
+<jaT0019>Someone who looked like his guardian rushed over in a panic. As she did, the innocent little devil finally let go of Nao's skirt.
+<enT0019>Someone who looked like his guardian rushed over in a panic. As she did, the innocent little devil finally let go of Nao's skirt.
+
+//TEXT 【Mother】
+<jaT0020>"Masato, what do you think you're doing?!"
+<enT0020>"Masato, what do you think you're doing?!"
+
+//TEXT 【Child】
+<jaT0021>"But, Onee-chan's pretty."
+<enT0021>"But, Onee-chan's pretty."
+
+//TEXT 【Nao】
+<jaT0022>"Huh? Th-that..."
+<enT0022>"Huh? Th-that..."
+
+//TEXT 【Mother】
+<jaT0023>"That's not a reason now is it?!"
+<enT0023>"That's not a reason now is it?!"
+
+//TEXT
+<jaT0024>His mother saw how troubled Nao was, so she scolded him harshly.
+<enT0024>His mother saw how troubled Nao was, so she scolded him harshly.
+
+//TEXT 【Mother】
+<jaT0025>"I'm truly very sorry. I'll be sure to scold him enough so he won't do it again."
+<enT0025>"I'm truly very sorry. I'll be sure to scold him enough so he won't do it again."
+
+//TEXT 【Nao】
+<jaT0026>"I-it's fine. Fortunately there weren't many people around, so please don't scold him too much."
+<enT0026>"I-it's fine. Fortunately there weren't many people around, so please don't scold him too much."
+
+//TEXT
+<jaT0027>Flustered, Nao tried to ease the mother.
+<enT0027>Flustered, Nao tried to ease the mother.
+
+//TEXT 【Nao】
+<jaT0028>"You shouldn't do things like that."
+<enT0028>"You shouldn't do things like that."
+
+//TEXT
+<jaT0029>Nao bowed to the mother with an apologetic smile as she made her gentle request.
+<enT0029>Nao bowed to the mother with an apologetic smile as she made her gentle request.
+
+//TEXT
+<jaT0030>Then she saw those two out the door and waved them off.
+<enT0030>Then she saw those two out the door and waved them off.
+
+//TEXT
+<jaT0031>......
+<enT0031>......
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_04.bss
+<enZ0001>Game_A002_04.bss
+
+//OTHER
+<jaZ0002>VETC0400
+<enZ0002>VETC0400
+
+//OTHER
+<jaZ0003>SH_A09AA
+<enZ0003>SH_A09AA
+
+//OTHER
+<jaZ0004>SI_A08AA
+<enZ0004>SI_A08AA
+
+//OTHER
+<jaZ0005>SA_A08AA
+<enZ0005>SA_A08AA
+
+//OTHER
+<jaZ0006>NAO_0021
+<enZ0006>NAO_0021
+
+//OTHER
+<jaZ0007>ev008a
+<enZ0007>ev008a
+
+//OTHER
+<jaZ0008>mask20
+<enZ0008>mask20
+
+//OTHER
+<jaZ0009>BGM22
+<enZ0009>BGM22
+
+//OTHER
+<jaZ0010>NAO_0022
+<enZ0010>NAO_0022
+
+//OTHER
+<jaZ0011>RYO_0027
+<enZ0011>RYO_0027
+
+//OTHER
+<jaZ0012>NAO_0023
+<enZ0012>NAO_0023
+
+//OTHER
+<jaZ0013>KAZ_0010
+<enZ0013>KAZ_0010
+
+//OTHER
+<jaZ0014>NAO_0024
+<enZ0014>NAO_0024
+
+//OTHER
+<jaZ0015>KAZ_0011
+<enZ0015>KAZ_0011
+
+//OTHER
+<jaZ0016>VETC0401
+<enZ0016>VETC0401
+
+//OTHER
+<jaZ0017>VETC0300
+<enZ0017>VETC0300
+
+//OTHER
+<jaZ0018>VETC0301
+<enZ0018>VETC0301
+
+//OTHER
+<jaZ0019>black
+<enZ0019>black
+
+//OTHER
+<jaZ0020>mask00
+<enZ0020>mask00
+
+//OTHER
+<jaZ0021>SH_A12AA
+<enZ0021>SH_A12AA
+
+//OTHER
+<jaZ0022>SI_A09AA
+<enZ0022>SI_A09AA
+
+//OTHER
+<jaZ0023>SA_B08AA
+<enZ0023>SA_B08AA
+
+//OTHER
+<jaZ0024>BG06BA
+<enZ0024>BG06BA
+
+//OTHER
+<jaZ0025>BGM12
+<enZ0025>BGM12
+
+//OTHER
+<jaZ0026>VETC0302
+<enZ0026>VETC0302
+
+//OTHER
+<jaZ0027>VETC0402
+<enZ0027>VETC0402
+
+//OTHER
+<jaZ0028>SA_A09AA
+<enZ0028>SA_A09AA
+
+//OTHER
+<jaZ0029>NAO_0025
+<enZ0029>NAO_0025
+
+//OTHER
+<jaZ0030>VETC0303
+<enZ0030>VETC0303
+
+//OTHER
+<jaZ0031>VETC0304
+<enZ0031>VETC0304
+
+//OTHER
+<jaZ0032>SA_B07AA
+<enZ0032>SA_B07AA
+
+//OTHER
+<jaZ0033>NAO_0026
+<enZ0033>NAO_0026
+
+//OTHER
+<jaZ0034>SA_A01AA
+<enZ0034>SA_A01AA
+
+//OTHER
+<jaZ0035>NAO_0027
+<enZ0035>NAO_0027
+
+</poem>

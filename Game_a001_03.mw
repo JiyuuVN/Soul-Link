@@ -1,0 +1,190 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+//NAME
+<jaN0002>Ponytail Girl
+<enN0002>Ponytail Girl
+
+///================================================================================
+
+//TEXT 【Shuhei】
+<jaT0001>"What the hell? That's dangerous!"
+<enT0001>"What the hell? That's dangerous!"
+
+//TEXT 【Ponytail Girl】
+<jaT0002>"......"
+<enT0002>"......"
+
+//TEXT 【Shuhei】
+<jaT0003>"Hey. What, not even one word of apology?"
+<enT0003>"Hey. What, not even one word of apology?"
+
+//TEXT
+<jaT0004>She was of slender stature with a side ponytail hanging down to her knees. This girl had a sour look on her face and didn't try to utter a single word.
+<enT0004>She was of slender stature with a side ponytail hanging down to her knees. This girl had a sour look on her face and didn't try to utter a single word.
+
+//TEXT 【Shuhei】
+<jaT0005>"H-hey. What's wrong, did I hit you somewhere I shouldn't have?"
+<enT0005>"H-hey. What's wrong, did I hit you somewhere I shouldn't have?"
+
+//TEXT 【Ponytail Girl】
+<jaT0006>"Hmph."
+<enT0006>"Hmph."
+
+//TEXT 【Shuhei】
+<jaT0007>"(Damn that attitude of hers! She ran into me and won't even apologize. Some woman.)"
+<enT0007>"(Damn that attitude of hers! She ran into me and won't even apologize. Some woman.)"
+
+//TEXT
+<jaT0008>She wasn't playing dumb, and she wasn't shy either. She simply thought nothing of Shuhei's existence.
+<enT0008>She wasn't playing dumb, and she wasn't shy either. She simply thought nothing of Shuhei's existence.
+
+//TEXT
+<jaT0009>She glanced over for just a second with a cold smile... @
+<enT0009>She glanced over for just a second with a cold smile... @
+
+//TEXT
+<jaT0010>And then, as if she had lost interest, she looked at the surrounding scenery.
+<enT0010>And then, as if she had lost interest, she looked at the surrounding scenery.
+
+//TEXT
+<jaT0011>Then she suddenly ran off after something.
+<enT0011>Then she suddenly ran off after something.
+
+//TEXT 【Shuhei】
+<jaT0012>"He-Hey... Damn, she got away. Looks like she was searching for someone."
+<enT0012>"He-Hey... Damn, she got away. Looks like she was searching for someone."
+
+//TEXT
+<jaT0013>A large man with a muscular build stood in the direction she ran.
+<enT0013>A large man with a muscular build stood in the direction she ran.
+
+//TEXT
+<jaT0014>He was far away, so Shuhei couldn't really tell, but he was a boorish man who might have tattoos.
+<enT0014>He was far away, so Shuhei couldn't really tell, but he was a boorish man who might have tattoos.
+
+//TEXT 【Shuhei】
+<jaT0015>"Tsk."
+<enT0015>"Tsk."
+
+//TEXT 【Shuhei】
+<jaT0016>"Well, I don't have time waste thinking about that woman. I've got my own things to do."
+<enT0016>"Well, I don't have time waste thinking about that woman. I've got my own things to do."
+
+//TEXT
+<jaT0017>Sighing, Shuhei began gathering up all the scattered boxes with "Genkotsu Okoshi" written on them.
+<enT0017>Sighing, Shuhei began gathering up all the scattered boxes with "Genkotsu Okoshi" written on them.
+
+//TEXT
+<jaT0018>While he had managed to avoid falling down, the contents of the paper bags had flown everywhere.
+<enT0018>While he had managed to avoid falling down, the contents of the paper bags had flown everywhere.
+
+//TEXT 【Shuhei】
+<jaT0019>"Oh man..."
+<enT0019>"Oh man..."
+
+//TEXT 【Shuhei】
+<jaT0020>"Hmm, Is this all of them? I think there's still some missing..."
+<enT0020>"Hmm, Is this all of them? I think there's still some missing..."
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A001_03.bss
+<enZ0001>Game_A001_03.bss
+
+//OTHER
+<jaZ0002>BGM11
+<enZ0002>BGM11
+
+//OTHER
+<jaZ0003>SD-A01BA
+<enZ0003>SD-A01BA
+
+//OTHER
+<jaZ0004>SG-A09AA
+<enZ0004>SG-A09AA
+
+//OTHER
+<jaZ0005>SYU_0007
+<enZ0005>SYU_0007
+
+//OTHER
+<jaZ0006>YUU_0295
+<enZ0006>YUU_0295
+
+//OTHER
+<jaZ0007>SG-A07AA
+<enZ0007>SG-A07AA
+
+//OTHER
+<jaZ0008>SYU_0008
+<enZ0008>SYU_0008
+
+//OTHER
+<jaZ0009>SG-A10AA
+<enZ0009>SG-A10AA
+
+//OTHER
+<jaZ0010>SYU_0009
+<enZ0010>SYU_0009
+
+//OTHER
+<jaZ0011>SD-B04AA
+<enZ0011>SD-B04AA
+
+//OTHER
+<jaZ0012>YUU_0296
+<enZ0012>YUU_0296
+
+//OTHER
+<jaZ0013>SG-A04AA
+<enZ0013>SG-A04AA
+
+//OTHER
+<jaZ0014>SYU_0010
+<enZ0014>SYU_0010
+
+//OTHER
+<jaZ0015>SD-B03AA
+<enZ0015>SD-B03AA
+
+//OTHER
+<jaZ0016>SE_021
+<enZ0016>SE_021
+
+//OTHER
+<jaZ0017>SYU_0011
+<enZ0017>SYU_0011
+
+//OTHER
+<jaZ0018>BGM23
+<enZ0018>BGM23
+
+//OTHER
+<jaZ0019>SYU_0012
+<enZ0019>SYU_0012
+
+//OTHER
+<jaZ0020>SG-A01AA
+<enZ0020>SG-A01AA
+
+//OTHER
+<jaZ0021>SYU_0013
+<enZ0021>SYU_0013
+
+//OTHER
+<jaZ0022>SYU_0014
+<enZ0022>SYU_0014
+
+//OTHER
+<jaZ0023>SG-A06AA
+<enZ0023>SG-A06AA
+
+//OTHER
+<jaZ0024>SYU_0015
+<enZ0024>SYU_0015
+
+</poem>

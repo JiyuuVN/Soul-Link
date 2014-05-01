@@ -1,0 +1,286 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+//NAME
+<jaN0002>Morimoto
+<enN0002>Morimoto
+
+///================================================================================
+
+//TEXT 【Shuhei】
+<jaT0001>"Oh man. I'm sure she doesn't mean ill, but her perception is too sharp."
+<enT0001>"Oh man. I'm sure she doesn't mean ill, but her perception is too sharp."
+
+//TEXT 【Morimoto】
+<jaT0002>"Is that so? I find that type of woman rather desirable."
+<enT0002>"Is that so? I find that type of woman rather desirable."
+
+//TEXT 【Shuhei】
+<jaT0003>"Wha? Don't just butt in when someone's talking to themselves!"
+<enT0003>"Wha? Don't just butt in when someone's talking to themselves!"
+
+//TEXT 【Morimoto】
+<jaT0004>"I'm sorry, that was rude. I did hesitate to do so though. I did not think you would talk to yourself so vocally."
+<enT0004>"I'm sorry, that was rude. I did hesitate to do so though. I did not think you would talk to yourself so vocally."
+
+//TEXT 【Shuhei】
+<jaT0005>"Ngg... Sorry, it's a habit."
+<enT0005>"Ngg... Sorry, it's a habit."
+
+//TEXT
+<jaT0006>Morimoto laughed at Shuhei as he scratched his head.
+<enT0006>Morimoto laughed at Shuhei as he scratched his head.
+
+//TEXT 【Morimoto】
+<jaT0007>"Hahah, well, then there's no need to apologize any further. Now then, let us head for our destination."
+<enT0007>"Hahah, well, then there's no need to apologize any further. Now then, let us head for our destination."
+
+//TEXT 【Shuhei】
+<jaT0008>"That so? By the way, where is my room?"
+<enT0008>"That so? By the way, where is my room?"
+
+//TEXT 【Morimoto】
+<jaT0009>"Ah, this is a good chance, so allow me to explain."
+<enT0009>"Ah, this is a good chance, so allow me to explain."
+
+//TEXT
+<jaT0010>Morimoto said, pulling a map of the Aries' interior from his pocket.
+<enT0010>Morimoto said, pulling a map of the Aries' interior from his pocket.
+
+//TEXT 【Morimoto】
+<jaT0011>"This is the interior of the Aries. The Aries is composed of four modules, the Hamal, the Sheratan, the Mesartim, and the Botein. The one we are presently located in is... @
+<enT0011>"This is the interior of the Aries. The Aries is composed of four modules, the Hamal, the Sheratan, the Mesartim, and the Botein. The one we are presently located in is... @
+
+//TEXT
+<jaT0012>this thick, newer module, the Hamal."
+<enT0012>this thick, newer module, the Hamal."
+
+//TEXT 【Morimoto】
+<jaT0013>"As for your room Shuhei-san, it is located in the long and narrow the Sheratan."
+<enT0013>"As for your room Shuhei-san, it is located in the long and narrow the Sheratan."
+
+//TEXT 【Shuhei】
+<jaT0014>"Huh, really. Hey, I've got a question?"
+<enT0014>"Huh, really. Hey, I've got a question?"
+
+//TEXT 【Morimoto】
+<jaT0015>"And what might that be?"
+<enT0015>"And what might that be?"
+
+//TEXT 【Shuhei】
+<jaT0016>"Aries is comprised of four cylindrical modules, right? So there wouldn't be any flat area?"
+<enT0016>"Aries is comprised of four cylindrical modules, right? So there wouldn't be any flat area?"
+
+//TEXT 【Morimoto】
+<jaT0017>"Precisely. All the modules are cylindrical."
+<enT0017>"Precisely. All the modules are cylindrical."
+
+//TEXT 【Shuhei】
+<jaT0018>"Other than the layer we're on there doesn't seem to be any others on this map. Is there anything above or below this layer?"
+<enT0018>"Other than the layer we're on there doesn't seem to be any others on this map. Is there anything above or below this layer?"
+
+//TEXT 【Morimoto】
+<jaT0019>"Hahaha, Well that's quite simple. The largest portion of the cylinder's center is used as living space. Above and below lie the tools, fuel, life support and all the other cargo necessary for life."
+<enT0019>"Hahaha, Well that's quite simple. The largest portion of the cylinder's center is used as living space. Above and below lie the tools, fuel, life support and all the other cargo necessary for life."
+
+//TEXT 【Shuhei】
+<jaT0020>"Ah, that's it. I figured they needed at least that much space to prepare the water and oxygen people consume."
+<enT0020>"Ah, that's it. I figured they needed at least that much space to prepare the water and oxygen people consume."
+
+//TEXT 【Morimoto】
+<jaT0021>"Maintaining supplies in space holds a great cost, even if they are easily obtainable on Earth. That's why this large space is always loaded."
+<enT0021>"Maintaining supplies in space holds a great cost, even if they are easily obtainable on Earth. That's why this large space is always loaded."
+
+//TEXT 【Morimoto】
+<jaT0022>"If I may say so, we are capable of living in only the central sections of these cargo loaded cylinders."
+<enT0022>"If I may say so, we are capable of living in only the central sections of these cargo loaded cylinders."
+
+//TEXT 【Shuhei】
+<jaT0023>"Hahaha..."
+<enT0023>"Hahaha..."
+
+//TEXT
+<jaT0024>Shuhei thought that while that certainly must be the case, there should have been a better way to say it.
+<enT0024>Shuhei thought that while that certainly must be the case, there should have been a better way to say it.
+
+//TEXT 【Morimoto】
+<jaT0025>"Now then, with the general explanation finished, shall we move on?"
+<enT0025>"Now then, with the general explanation finished, shall we move on?"
+
+//TEXT 【Shuhei】
+<jaT0026>"Yea, right. I think I got it."
+<enT0026>"Yea, right. I think I got it."
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A003_00.bss
+<enZ0001>Game_A003_00.bss
+
+//OTHER
+<jaZ0002>black
+<enZ0002>black
+
+//OTHER
+<jaZ0003>mask00
+<enZ0003>mask00
+
+//OTHER
+<jaZ0004>BG09BA
+<enZ0004>BG09BA
+
+//OTHER
+<jaZ0005>SG_A06AA
+<enZ0005>SG_A06AA
+
+//OTHER
+<jaZ0006>BGM12
+<enZ0006>BGM12
+
+//OTHER
+<jaZ0007>SYU_0119
+<enZ0007>SYU_0119
+
+//OTHER
+<jaZ0008>SJ_A01AA
+<enZ0008>SJ_A01AA
+
+//OTHER
+<jaZ0009>MOR_0006
+<enZ0009>MOR_0006
+
+//OTHER
+<jaZ0010>SG_A09AA
+<enZ0010>SG_A09AA
+
+//OTHER
+<jaZ0011>SYU_0120
+<enZ0011>SYU_0120
+
+//OTHER
+<jaZ0012>SJ_A05AA
+<enZ0012>SJ_A05AA
+
+//OTHER
+<jaZ0013>MOR_0007
+<enZ0013>MOR_0007
+
+//OTHER
+<jaZ0014>SYU_0121
+<enZ0014>SYU_0121
+
+//OTHER
+<jaZ0015>SJ_A02AA
+<enZ0015>SJ_A02AA
+
+//OTHER
+<jaZ0016>SJ_A03AA
+<enZ0016>SJ_A03AA
+
+//OTHER
+<jaZ0017>MOR_0008
+<enZ0017>MOR_0008
+
+//OTHER
+<jaZ0018>SG_A01AA
+<enZ0018>SG_A01AA
+
+//OTHER
+<jaZ0019>SYU_0122
+<enZ0019>SYU_0122
+
+//OTHER
+<jaZ0020>MOR_0009
+<enZ0020>MOR_0009
+
+//OTHER
+<jaZ0021>TIZU01
+<enZ0021>TIZU01
+
+//OTHER
+<jaZ0022>BGM23
+<enZ0022>BGM23
+
+//OTHER
+<jaZ0023>MOR_0010
+<enZ0023>MOR_0010
+
+//OTHER
+<jaZ0024>MS_AreaD
+<enZ0024>MS_AreaD
+
+//OTHER
+<jaZ0025>MOR_0011
+<enZ0025>MOR_0011
+
+//OTHER
+<jaZ0026>MS_AreaC
+<enZ0026>MS_AreaC
+
+//OTHER
+<jaZ0027>MOR_0012
+<enZ0027>MOR_0012
+
+//OTHER
+<jaZ0028>SYU_0123
+<enZ0028>SYU_0123
+
+//OTHER
+<jaZ0029>MOR_0013
+<enZ0029>MOR_0013
+
+//OTHER
+<jaZ0030>BG03AA
+<enZ0030>BG03AA
+
+//OTHER
+<jaZ0031>SYU_0124
+<enZ0031>SYU_0124
+
+//OTHER
+<jaZ0032>MOR_0014
+<enZ0032>MOR_0014
+
+//OTHER
+<jaZ0033>SYU_0125
+<enZ0033>SYU_0125
+
+//OTHER
+<jaZ0034>MOR_0015
+<enZ0034>MOR_0015
+
+//OTHER
+<jaZ0035>SYU_0126
+<enZ0035>SYU_0126
+
+//OTHER
+<jaZ0036>MOR_0016
+<enZ0036>MOR_0016
+
+//OTHER
+<jaZ0037>MOR_0017
+<enZ0037>MOR_0017
+
+//OTHER
+<jaZ0038>SG_A08AA
+<enZ0038>SG_A08AA
+
+//OTHER
+<jaZ0039>SJ_A04AA
+<enZ0039>SJ_A04AA
+
+//OTHER
+<jaZ0040>SYU_0127
+<enZ0040>SYU_0127
+
+//OTHER
+<jaZ0041>MOR_0018
+<enZ0041>MOR_0018
+
+//OTHER
+<jaZ0042>SYU_0128
+<enZ0042>SYU_0128
+
+</poem>

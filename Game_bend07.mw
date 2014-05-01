@@ -1,0 +1,98 @@
+<poem>
+//NAME
+<jaN0001>Shuhei
+<enN0001>Shuhei
+
+///================================================================================
+
+//TEXT
+<jaT0001>While I was calculating the enemy's intentions, he came within several meters from us.
+<enT0001>While I was calculating the enemy's intentions, he came within several meters from us.
+
+//TEXT
+<jaT0002>Then he paused and watched us.
+<enT0002>Then he paused and watched us.
+
+//TEXT 【Shuhei】
+<jaT0003>"(Now what are you going to do?)"
+<enT0003>"(Now what are you going to do?)"
+
+//TEXT
+<jaT0004>Because of that shield, I can't attack until he's a little closer. All we can do is watch for now.
+<enT0004>Because of that shield, I can't attack until he's a little closer. All we can do is watch for now.
+
+//TEXT 【Shuhei】
+<jaT0005>"(Hmm? He's stirring around?)"
+<enT0005>"(Hmm? He's stirring around?)"
+
+//TEXT
+<jaT0006>The man placed his hand inside his chest, readying something. Is he readying something to attack us with?
+<enT0006>The man placed his hand inside his chest, readying something. Is he readying something to attack us with?
+
+//TEXT 【Shuhei】
+<jaT0007>"......"
+<enT0007>"......"
+
+//TEXT
+<jaT0008>I had a bad feeling about this. What should I do? I can't wait for him to get any closer, and I can't let him finish readying whatever it is he's preparing.
+<enT0008>I had a bad feeling about this. What should I do? I can't wait for him to get any closer, and I can't let him finish readying whatever it is he's preparing.
+
+//TEXT 【Shuhei】
+<jaT0009>"(What to do? Should I close the shutter? Or should I go in?)"
+<enT0009>"(What to do? Should I close the shutter? Or should I go in?)"
+
+//TEXT
+<jaT0010>While I pondered, the man threw something black from behind the shield. The next instant, he fell back at full speed behind the shield.
+<enT0010>While I pondered, the man threw something black from behind the shield. The next instant, he fell back at full speed behind the shield.
+
+//TEXT 【Shuhei】
+<jaT0011>"Oh shit!! Everyone get back!"
+<enT0011>"Oh shit!! Everyone get back!"
+
+//TEXT
+<jaT0012>Finally, I realized his intentions. I ordered everyone to get away and leapt towards that black thing he threw, but it was already too late.
+<enT0012>Finally, I realized his intentions. I ordered everyone to get away and leapt towards that black thing he threw, but it was already too late.
+
+//TEXT
+<jaT0013>A tremendous explosion. The next instant, my entire body was swallowed in a storm of light.
+<enT0013>A tremendous explosion. The next instant, my entire body was swallowed in a storm of light.
+
+//TEXT
+<jaT0014>......
+<enT0014>......
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game__Bend07.bss
+<enZ0001>Game__Bend07.bss
+
+//OTHER
+<jaZ0002>BGM15
+<enZ0002>BGM15
+
+//OTHER
+<jaZ0003>BG20CA
+<enZ0003>BG20CA
+
+//OTHER
+<jaZ0004>mask00
+<enZ0004>mask00
+
+//OTHER
+<jaZ0005>SE_039
+<enZ0005>SE_039
+
+//OTHER
+<jaZ0006>white
+<enZ0006>white
+
+//OTHER
+<jaZ0007>black
+<enZ0007>black
+
+//OTHER
+<jaZ0008>_TextBadEnd
+<enZ0008>_TextBadEnd
+
+</poem>

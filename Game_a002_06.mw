@@ -1,0 +1,262 @@
+<poem>
+//NAME
+<jaN0001>Nao
+<enN0001>Nao
+
+//NAME
+<jaN0002>Ryota
+<enN0002>Ryota
+
+//NAME
+<jaN0003>Kazuhiko
+<enN0003>Kazuhiko
+
+///================================================================================
+
+//TEXT 【Nao】
+<jaT0001>"What, what? Is it that important?"
+<enT0001>"What, what? Is it that important?"
+
+//TEXT 【Ryota】
+<jaT0002>"The truth is, I just got a call from Aniki."
+<enT0002>"The truth is, I just got a call from Aniki."
+
+//TEXT 【Nao】
+<jaT0003>"Mhmm?"
+<enT0003>"Mhmm?"
+
+//TEXT 【Ryota】
+<jaT0004>"And he said he might be coming to the Aries sometime soon."
+<enT0004>"And he said he might be coming to the Aries sometime soon."
+
+//TEXT 【Nao】
+<jaT0005>"......"
+<enT0005>"......"
+
+//TEXT 【Nao】
+<jaT0006>"Heeeh?!"
+<enT0006>"Heeeh?!"
+
+//TEXT
+<jaT0007>The tray carrying the tea fell from her hands.
+<enT0007>The tray carrying the tea fell from her hands.
+
+//TEXT 【Nao】
+<jaT0008>"I-is that true?"
+<enT0008>"I-is that true?"
+
+//TEXT 【Ryota】
+<jaT0009>"Y-yea..."
+<enT0009>"Y-yea..."
+
+//TEXT 【Kazuhiko】
+<jaT0010>"What's the meaning of this? Isn't your brother in the main division? Is there a joint exercise with the prep division?"
+<enT0010>"What's the meaning of this? Isn't your brother in the main division? Is there a joint exercise with the prep division?"
+
+//TEXT 【Ryota】
+<jaT0011>"I don't know. 'I've got something to do,' is all he said. I don't even know for sure when he's coming."
+<enT0011>"I don't know. 'I've got something to do,' is all he said. I don't even know for sure when he's coming."
+
+//TEXT 【Kazuhiko】
+<jaT0012>"Hmm."
+<enT0012>"Hmm."
+
+//TEXT
+<jaT0013>Kazuhiko remained silent and expressionless. On the other hand, Nao was so full of energy she looked like she was about to start skipping.
+<enT0013>Kazuhiko remained silent and expressionless. On the other hand, Nao was so full of energy she looked like she was about to start skipping.
+
+//TEXT 【Nao】
+<jaT0014>"Really? ... So that's it..."
+<enT0014>"Really? ... So that's it..."
+
+//TEXT 【Ryota】
+<jaT0015>"Um, you know... It's Aniki, so it's not guaranteed he'll come. He could have a sudden change of mind."
+<enT0015>"Um, you know... It's Aniki, so it's not guaranteed he'll come. He could have a sudden change of mind."
+
+//TEXT 【Nao】
+<jaT0016>"Shuhei-kun..."
+<enT0016>"Shuhei-kun..."
+
+//TEXT 【Ryota】
+<jaT0017>"Um, hello? Nao-san?"
+<enT0017>"Um, hello? Nao-san?"
+
+//TEXT
+<jaT0018>He tried calling out to her, but she could no longer hear him.
+<enT0018>He tried calling out to her, but she could no longer hear him.
+
+//TEXT
+<jaT0019>Her eyes were shining and her mind was already off playing with Shuhei.
+<enT0019>Her eyes were shining and her mind was already off playing with Shuhei.
+
+//TEXT 【Ryota】
+<jaT0020>"(Well, it looks like she's happy, so that's good. I just wish she would've set the tray down before I told her.)"
+<enT0020>"(Well, it looks like she's happy, so that's good. I just wish she would've set the tray down before I told her.)"
+
+//TEXT 【Ryota】
+<jaT0021>"(She's doesn't drop it when her skirt gets flipped up, but she does when she hears about Aniki. Only Nao-san.)"
+<enT0021>"(She's doesn't drop it when her skirt gets flipped up, but she does when she hears about Aniki. Only Nao-san.)"
+
+//TEXT
+<jaT0022>He heaved a sigh of exasperation and smiled as he watched Nao enjoying herself.
+<enT0022>He heaved a sigh of exasperation and smiled as he watched Nao enjoying herself.
+
+//TEXT
+<jaT0023>......
+<enT0023>......
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_06.bss
+<enZ0001>Game_A002_06.bss
+
+//OTHER
+<jaZ0002>SA_B01AA
+<enZ0002>SA_B01AA
+
+//OTHER
+<jaZ0003>NAO_0032
+<enZ0003>NAO_0032
+
+//OTHER
+<jaZ0004>RYO_0032
+<enZ0004>RYO_0032
+
+//OTHER
+<jaZ0005>SA_A01AA
+<enZ0005>SA_A01AA
+
+//OTHER
+<jaZ0006>NAO_0033
+<enZ0006>NAO_0033
+
+//OTHER
+<jaZ0007>SH_A01AA
+<enZ0007>SH_A01AA
+
+//OTHER
+<jaZ0008>RYO_0033
+<enZ0008>RYO_0033
+
+//OTHER
+<jaZ0009>SA_A08AA
+<enZ0009>SA_A08AA
+
+//OTHER
+<jaZ0010>NAO_0034
+<enZ0010>NAO_0034
+
+//OTHER
+<jaZ0011>SE_067
+<enZ0011>SE_067
+
+//OTHER
+<jaZ0012>SA_B09AA
+<enZ0012>SA_B09AA
+
+//OTHER
+<jaZ0013>NAO_0035
+<enZ0013>NAO_0035
+
+//OTHER
+<jaZ0014>SI_A08AA
+<enZ0014>SI_A08AA
+
+//OTHER
+<jaZ0015>SH_A09AA
+<enZ0015>SH_A09AA
+
+//OTHER
+<jaZ0016>NAO_0036
+<enZ0016>NAO_0036
+
+//OTHER
+<jaZ0017>RYO_0034
+<enZ0017>RYO_0034
+
+//OTHER
+<jaZ0018>SA_A02AA
+<enZ0018>SA_A02AA
+
+//OTHER
+<jaZ0019>SI_A01AA
+<enZ0019>SI_A01AA
+
+//OTHER
+<jaZ0020>BGM12
+<enZ0020>BGM12
+
+//OTHER
+<jaZ0021>KAZ_0013
+<enZ0021>KAZ_0013
+
+//OTHER
+<jaZ0022>SH_A04AA
+<enZ0022>SH_A04AA
+
+//OTHER
+<jaZ0023>RYO_0035
+<enZ0023>RYO_0035
+
+//OTHER
+<jaZ0024>SI_A04AA
+<enZ0024>SI_A04AA
+
+//OTHER
+<jaZ0025>KAZ_0014
+<enZ0025>KAZ_0014
+
+//OTHER
+<jaZ0026>SA_B08AA
+<enZ0026>SA_B08AA
+
+//OTHER
+<jaZ0027>NAO_0037
+<enZ0027>NAO_0037
+
+//OTHER
+<jaZ0028>SH_A03AA
+<enZ0028>SH_A03AA
+
+//OTHER
+<jaZ0029>RYO_9999
+<enZ0029>RYO_9999
+
+//OTHER
+<jaZ0030>SA_A09AA
+<enZ0030>SA_A09AA
+
+//OTHER
+<jaZ0031>NAO_0038
+<enZ0031>NAO_0038
+
+//OTHER
+<jaZ0032>SH_A11AA
+<enZ0032>SH_A11AA
+
+//OTHER
+<jaZ0033>RYO_0036
+<enZ0033>RYO_0036
+
+//OTHER
+<jaZ0034>SH_A10AA
+<enZ0034>SH_A10AA
+
+//OTHER
+<jaZ0035>RYO_0037
+<enZ0035>RYO_0037
+
+//OTHER
+<jaZ0036>RYO_0038
+<enZ0036>RYO_0038
+
+//OTHER
+<jaZ0037>black
+<enZ0037>black
+
+//OTHER
+<jaZ0038>mask00
+<enZ0038>mask00
+
+</poem>

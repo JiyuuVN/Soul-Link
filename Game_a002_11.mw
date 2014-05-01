@@ -1,0 +1,218 @@
+<poem>
+//NAME
+<jaN0001>Man
+<enN0001>Man
+
+//NAME
+<jaN0002>Shuhei
+<enN0002>Shuhei
+
+//NAME
+<jaN0003>Morimoto
+<enN0003>Morimoto
+
+//NAME
+<jaN0004>Dandy Morimoto
+<enN0004>Dandy Morimoto
+
+///================================================================================
+
+//TEXT
+<jaT0001>Since he was already well worn out from carrying that large knapsack, he readily agreed to Cellaria's suggestion.
+<enT0001>Since he was already well worn out from carrying that large knapsack, he readily agreed to Cellaria's suggestion.
+
+//TEXT
+<jaT0002>When he did, a man in his 40s who had stood back during their discussion quickly approached Shuhei.
+<enT0002>When he did, a man in his 40s who had stood back during their discussion quickly approached Shuhei.
+
+//TEXT 【Man】
+<jaT0003>"Shall I carry your luggage, sir?"
+<enT0003>"Shall I carry your luggage, sir?"
+
+//TEXT 【Shuhei】
+<jaT0004>"Huh?"
+<enT0004>"Huh?"
+
+//TEXT 【Morimoto】
+<jaT0005>"I am the assistant manager of this space station, the Aries. My name is Morimoto Shigemichi. You must be unfamiliar with this station, so I have been standing by to guide you, Shuhei-san."
+<enT0005>"I am the assistant manager of this space station, the Aries. My name is Morimoto Shigemichi. You must be unfamiliar with this station, so I have been standing by to guide you, Shuhei-san."
+
+//TEXT 【Shuhei】
+<jaT0006>"Oh, is that so? Well that's a relief."
+<enT0006>"Oh, is that so? Well that's a relief."
+
+//TEXT 【Morimoto】
+<jaT0007>"Yes, yes. My nickname is "Dandy Morimoto". If you'd like, you may call me this as well, Shuhei-san."
+<enT0007>"Yes, yes. My nickname is "Dandy Morimoto". If you'd like, you may call me this as well, Shuhei-san."
+
+//TEXT 【Shuhei】
+<jaT0008>"....."
+<enT0008>"....."
+
+//TEXT 【Dandy Morimoto】
+<jaT0009>"......"
+<enT0009>"......"
+
+//TEXT
+<jaT0010>After an uneasy silence, Shuhei forced himself to speak.
+<enT0010>After an uneasy silence, Shuhei forced himself to speak.
+
+//TEXT 【Shuhei】
+<jaT0011>"Well then, Assistant Manager, where is my room? @
+<enT0011>"Well then, Assistant Manager, where is my room? @
+
+//TEXT
+<jaT0012>What, don't look so depressed just because I didn't use your nickname! That won't make me give in!"
+<enT0012>What, don't look so depressed just because I didn't use your nickname! That won't make me give in!"
+
+//TEXT 【Morimoto】
+<jaT0013>"Hahaha, it was a joke, a joke. A welcome joke, to ease the guests."
+<enT0013>"Hahaha, it was a joke, a joke. A welcome joke, to ease the guests."
+
+//TEXT 【Shuhei】
+<jaT0014>"H-huh? A welcome joke?"
+<enT0014>"H-huh? A welcome joke?"
+
+//TEXT
+<jaT0015>Shuhei was speechless. Morimoto, on the other hand, was calm and looked as if nothing had happened.
+<enT0015>Shuhei was speechless. Morimoto, on the other hand, was calm and looked as if nothing had happened.
+
+//TEXT
+<jaT0016>Shuhei thought 'this guy is hard to deal with...'.
+<enT0016>Shuhei thought 'this guy is hard to deal with...'.
+
+//TEXT 【Morimoto】
+<jaT0017>"Well then, please follow after me. I shall show you around."
+<enT0017>"Well then, please follow after me. I shall show you around."
+
+//TEXT
+<jaT0018>He said, and took the luggage from Shuhei.
+<enT0018>He said, and took the luggage from Shuhei.
+
+//TEXT 【Shuhei】
+<jaT0019>"Ah, thanks."
+<enT0019>"Ah, thanks."
+
+///================================================================================
+
+//OTHER
+<jaZ0001>Game_A002_11.bss
+<enZ0001>Game_A002_11.bss
+
+//OTHER
+<jaZ0002>SG_A01AA
+<enZ0002>SG_A01AA
+
+//OTHER
+<jaZ0003>SJ_A01AA
+<enZ0003>SJ_A01AA
+
+//OTHER
+<jaZ0004>SE_A01AA
+<enZ0004>SE_A01AA
+
+//OTHER
+<jaZ0005>BGM11
+<enZ0005>BGM11
+
+//OTHER
+<jaZ0006>MOR_0000
+<enZ0006>MOR_0000
+
+//OTHER
+<jaZ0007>SG_A10AA
+<enZ0007>SG_A10AA
+
+//OTHER
+<jaZ0008>SYU_0108
+<enZ0008>SYU_0108
+
+//OTHER
+<jaZ0009>SJ_A02AA
+<enZ0009>SJ_A02AA
+
+//OTHER
+<jaZ0010>MOR_0001
+<enZ0010>MOR_0001
+
+//OTHER
+<jaZ0011>SYU_0109
+<enZ0011>SYU_0109
+
+//OTHER
+<jaZ0012>SJ_A04AA
+<enZ0012>SJ_A04AA
+
+//OTHER
+<jaZ0013>MOR_0002
+<enZ0013>MOR_0002
+
+//OTHER
+<jaZ0014>SG_A05AA
+<enZ0014>SG_A05AA
+
+//OTHER
+<jaZ0015>SE_A04AA
+<enZ0015>SE_A04AA
+
+//OTHER
+<jaZ0016>SYU_0110
+<enZ0016>SYU_0110
+
+//OTHER
+<jaZ0017>MOR_0003
+<enZ0017>MOR_0003
+
+//OTHER
+<jaZ0018>SG_A04AA
+<enZ0018>SG_A04AA
+
+//OTHER
+<jaZ0019>SYU_0111
+<enZ0019>SYU_0111
+
+//OTHER
+<jaZ0020>SG_A07AA
+<enZ0020>SG_A07AA
+
+//OTHER
+<jaZ0021>SJ_A11AA
+<enZ0021>SJ_A11AA
+
+//OTHER
+<jaZ0022>SYU_0112
+<enZ0022>SYU_0112
+
+//OTHER
+<jaZ0023>SJ_A05AA
+<enZ0023>SJ_A05AA
+
+//OTHER
+<jaZ0024>MOR_0004
+<enZ0024>MOR_0004
+
+//OTHER
+<jaZ0025>SE_A08AA
+<enZ0025>SE_A08AA
+
+//OTHER
+<jaZ0026>SYU_0113
+<enZ0026>SYU_0113
+
+//OTHER
+<jaZ0027>SG_A06AA
+<enZ0027>SG_A06AA
+
+//OTHER
+<jaZ0028>MOR_0005
+<enZ0028>MOR_0005
+
+//OTHER
+<jaZ0029>SE_A02AA
+<enZ0029>SE_A02AA
+
+//OTHER
+<jaZ0030>SYU_0114
+<enZ0030>SYU_0114
+
+</poem>
